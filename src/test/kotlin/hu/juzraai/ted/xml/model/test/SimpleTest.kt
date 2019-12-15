@@ -34,4 +34,26 @@ class SimpleTest {
 			println(translationSection)
 		}
 	}
+
+	@Test
+	fun testSchemaR209_2019() {
+		var tedExport = TedXmlModel.parse("schema209/590306_2019.xml")
+		with(tedExport) {
+			println("docId = $docId")
+			println("edition = $edition")
+			println("version = $version")
+
+			println(technicalSection)
+
+			println(linksSection)
+
+			println(sender)
+
+			println(codedDataSection.codifData)
+			println(codedDataSection.noticeData)
+			println(codedDataSection.refOjs)
+
+			println(translationSection)
+		}
+	}
 }

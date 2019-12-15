@@ -35,6 +35,9 @@ data class NoticeData(
 		@field:Element(name = "IA_URL_ETENDERING", required = false)
 		var iaUrlEtendering: String = "",
 
+		@field:Element(name = "PERFORMANCE_NUTS", required = false)
+		var performanceNuts: String = "",
+
 		@field:ElementList(inline = true, entry = "ORIGINAL_CPV")
 		var originalCpv: List<OriginalCpv> = mutableListOf<OriginalCpv>(),
 
@@ -58,4 +61,6 @@ data class NoticeData(
 
 		@field:ElementList(name = "REF_NOTICE", entry = "NO_DOC_OJS", required = false)
 		var refNotice: List<String> = mutableListOf<String>() // 209, 208 OK
+
+
 )
