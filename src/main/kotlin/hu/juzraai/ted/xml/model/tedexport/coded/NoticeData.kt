@@ -29,7 +29,7 @@ data class NoticeData(
 		@field:Element(name = "ISO_COUNTRY")
 		var isoCountry: Country = Country(),
 
-		@field:Element(name = "IA_URL_GENERAL")
+		@field:Element(name = "IA_URL_GENERAL", required = false)
 		var iaUrlGeneral: String = "",
 
 		@field:Element(name = "IA_URL_ETENDERING", required = false)
