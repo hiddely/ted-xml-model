@@ -14,7 +14,7 @@ import org.simpleframework.xml.Root
  *
  * @author Zsolt Jurányi
  */
-@Root(name = "NOTICE_DATA")
+@Root(name = "NOTICE_DATA", strict = false)
 data class NoticeData(
 
 		@field:Element(name = "NO_DOC_OJS", required = false)
@@ -35,8 +35,8 @@ data class NoticeData(
 		@field:Element(name = "IA_URL_ETENDERING", required = false)
 		var iaUrlEtendering: String = "",
 
-		@field:Element(name = "PERFORMANCE_NUTS", required = false)
-		var performanceNuts: String = "",
+		@field:ElementList(name = "PERFORMANCE_NUTS", inline = true, required = false)
+		var performanceNuts: List<String> = mutableListOf<String>(),
 
 		@field:ElementList(inline = true, entry = "ORIGINAL_CPV")
 		var originalCpv: List<OriginalCpv> = mutableListOf<OriginalCpv>(),
@@ -50,7 +50,7 @@ data class NoticeData(
 		@field:ElementList(inline = true, entry = "CURRENT_NUTS", required = false)
 		var currentNuts: List<String> = mutableListOf<String>(),
 
-		@field:ElementList(inline = true, entry = "CA_CE_NUTS")
+		@field:ElementList(inline = true, entry = "CA_CE_NUTS", required = false)
 		var caCeNuts: List<Nuts> = mutableListOf<Nuts>(),
 
 		@field:ElementList(inline = true, entry = "TENDERER_NUTS", required = false)
