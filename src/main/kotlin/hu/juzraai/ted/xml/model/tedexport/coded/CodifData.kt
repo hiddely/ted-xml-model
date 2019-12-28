@@ -49,7 +49,7 @@ data class CodifData(
 		@field:Element(name = "HEADING", required = false)
 		var heading: String = "",
 
-		@field:Element(name = "INITIATOR")
+		@field:Element(name = "INITIATOR", required = false)
 		var initiator: String = "",
 
 		@field:Element(name = "DIRECTIVE", required = false)
