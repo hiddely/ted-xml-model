@@ -15,7 +15,7 @@ data class ObjectContract(
     var shortDescr: TextFtMultiLine = TextFtMultiLine(),
 
         @field:Element(name = "REFERENCE_NUMBER", required = false)
-    var referenceNumber: String = "",
+        var referenceNumber: String = "",
 
         @field:Element(name = "VAL_ESTIMATED_TOTAL", required = false)
     var estimatedTotal: EstimatedTotal = EstimatedTotal()

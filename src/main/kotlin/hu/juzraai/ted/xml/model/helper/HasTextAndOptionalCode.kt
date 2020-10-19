@@ -7,7 +7,7 @@ import org.simpleframework.xml.Text
  * @author Zsolt Jurányi
  */
 abstract class HasTextAndOptionalCode(
-		@field:Text var value: String = "",
+		@field:Text(required = false) var value: String = "",
 
 		@field:Attribute(name = "CODE", required = false) var code: String = ""
 ) {

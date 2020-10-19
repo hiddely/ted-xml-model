@@ -82,4 +82,31 @@ class SimpleTest {
 			println(translationSection)
 		}
 	}
+
+	@Test
+	fun testSchemaR209_2020() {
+		var tedExport = TedXmlModel.parse("schema209/361581_2020.xml")
+		with(tedExport) {
+			println("docId = $docId")
+			println("edition = $edition")
+			println("version = $version")
+
+			println(technicalSection)
+
+			println(linksSection)
+
+			println(sender)
+
+			println(formSection)
+
+			println(codedDataSection.codifData)
+			println(codedDataSection.noticeData)
+			println(codedDataSection.refOjs)
+
+			println("Official name")
+			println(formSection.contractNotices[0].contractingBody.address.officialname)
+
+			println(translationSection)
+		}
+	}
 }

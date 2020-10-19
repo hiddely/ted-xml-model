@@ -33,7 +33,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.jetbrains.kotlin</groupId>
-			<artifactId>kotlin-test</artifactId>
+			<artifactId>kotlin-test-junit</artifactId>
 			<version>${kotlin.version}</version>
 			<scope>test</scope>
 		</dependency>
@@ -54,6 +54,7 @@
 	</dependencies>
 
 	<build>
+		<sourceDirectory>src/main/kotlin</sourceDirectory>
 		<plugins>
 			<plugin>
 				<groupId>org.jetbrains.kotlin</groupId>
@@ -66,11 +67,6 @@
 						<goals>
 							<goal>compile</goal>
 						</goals>
-						<configuration>
-							<sourceDirs>
-								<source>src/main/kotlin</source>
-							</sourceDirs>
-						</configuration>
 					</execution>
 					<execution>
 						<id>test-compile</id>

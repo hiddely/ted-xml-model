@@ -1,1 +1,2163 @@
-<?xml version="1.0" encoding="UTF-8"?><TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication" xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts" xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd" VERSION="R2.0.9.S03.E01" DOC_ID="590306-2019" EDITION="2019241"><TECHNICAL_SECTION><RECEPTION_ID>19-604494-001</RECEPTION_ID><DELETION_DATE>20200217</DELETION_DATE><FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST><COMMENTS>From Convertor</COMMENTS></TECHNICAL_SECTION><LINKS_SECTION><XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu" xlink:title="TED WEBSITE"/><OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/><FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/><ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/><ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/></LINKS_SECTION><CODED_DATA_SECTION><REF_OJS><COLL_OJ>S</COLL_OJ><NO_OJ>241</NO_OJ><DATE_PUB>20191213</DATE_PUB></REF_OJS><NOTICE_DATA><NO_DOC_OJS>2019/S 241-590306</NO_DOC_OJS><URI_LIST><URI_DOC LG="DA">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:DA:HTML</URI_DOC><URI_DOC LG="DE">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:DE:HTML</URI_DOC><URI_DOC LG="EN">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:EN:HTML</URI_DOC><URI_DOC LG="ES">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:ES:HTML</URI_DOC><URI_DOC LG="FI">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:FI:HTML</URI_DOC><URI_DOC LG="FR">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:FR:HTML</URI_DOC><URI_DOC LG="EL">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:EL:HTML</URI_DOC><URI_DOC LG="IT">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:IT:HTML</URI_DOC><URI_DOC LG="NL">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:NL:HTML</URI_DOC><URI_DOC LG="PT">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:PT:HTML</URI_DOC><URI_DOC LG="SV">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SV:HTML</URI_DOC><URI_DOC LG="CS">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:CS:HTML</URI_DOC><URI_DOC LG="ET">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:ET:HTML</URI_DOC><URI_DOC LG="HU">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:HU:HTML</URI_DOC><URI_DOC LG="LT">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:LT:HTML</URI_DOC><URI_DOC LG="LV">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:LV:HTML</URI_DOC><URI_DOC LG="MT">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:MT:HTML</URI_DOC><URI_DOC LG="PL">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:PL:HTML</URI_DOC><URI_DOC LG="SK">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SK:HTML</URI_DOC><URI_DOC LG="SL">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SL:HTML</URI_DOC><URI_DOC LG="GA">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:GA:HTML</URI_DOC><URI_DOC LG="BG">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:BG:HTML</URI_DOC><URI_DOC LG="RO">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:RO:HTML</URI_DOC><URI_DOC LG="HR">http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:HR:HTML</URI_DOC></URI_LIST><LG_ORIG>EN</LG_ORIG><ISO_COUNTRY VALUE="IT"/><IA_URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</IA_URL_GENERAL><ORIGINAL_CPV CODE="79990000">Miscellaneous business-related services</ORIGINAL_CPV><ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet and support</ORIGINAL_CPV><n2016:PERFORMANCE_NUTS CODE="ITH52">Parma</n2016:PERFORMANCE_NUTS><n2016:CA_CE_NUTS CODE="ITH52">Parma</n2016:CA_CE_NUTS><REF_NOTICE><NO_DOC_OJS>2019/S 228-558368</NO_DOC_OJS></REF_NOTICE></NOTICE_DATA><CODIF_DATA><DS_DATE_DISPATCH>20191210</DS_DATE_DISPATCH><DT_DATE_FOR_SUBMISSION>20200217 14:30</DT_DATE_FOR_SUBMISSION><AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International Organisation</AA_AUTHORITY_TYPE><TD_DOCUMENT_TYPE CODE="2">Additional information</TD_DOCUMENT_TYPE><NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE><PR_PROC CODE="1">Open procedure</PR_PROC><RP_REGULATION CODE="3">European Institution/Agency or International Organisation</RP_REGULATION><TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID><AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT><MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES><HEADING>AGC14</HEADING><INITIATOR>AG</INITIATOR></CODIF_DATA></CODED_DATA_SECTION><TRANSLATION_SECTION><ML_TITLES><ML_TI_DOC LG="DA"><TI_CY>Italien</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integreret servicedesk og support til IT-, logistik- og forretningsprocedurer</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="DE"><TI_CY>Italien</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integriertes Service-Desk und Unterstützung für IT-, Logistik- und Geschäftsprozesse</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="EN"><TI_CY>Italy</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrated Service Desk and Support for IT, Logistical and Business Processes</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="ES"><TI_CY>Italia</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Centro de atención integrado y apoyo para procesos informáticos, logísticos y empresariales</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="FI"><TI_CY>Italia</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integroitu palvelupiste ja tuki tietotekniikkaa, logistiikkaa ja liiketoimintaprosesseja varten</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="FR"><TI_CY>Italie</TI_CY><TI_TOWN>Parme</TI_TOWN><TI_TEXT><P>Service Desk intégré et support pour l'informatique, la logistique et les processus d'affaires</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="EL"><TI_CY>Ιταλία</TI_CY><TI_TOWN>Πάρμα</TI_TOWN><TI_TEXT><P>Ολοκληρωμένο Γραφείο Εξυπηρέτησης και Υποστήριξη για διαδικασίες πληροφορικής, διαδικασίες διαχείρισης της διακίνησης εµπορευµάτων και επιχειρηματικές διαδικασίες</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="IT"><TI_CY>Italia</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Sportello di assistenza integrato e supporto per processi informatici, logistici e aziendali</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="NL"><TI_CY>Italië</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Geïntegreerde servicedesk en ondersteuning voor IT-, logistieke en bedrijfsprocessen.</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="PT"><TI_CY>Itália</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Serviço de assistência integrado e apoio para TI, logística e processos de negócio</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="SV"><TI_CY>Italien</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrerad stödtjänst och support för processer inom it, logistik och affärsverksamhet</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="CS"><TI_CY>Itálie</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrovaná uživatelská podpora a podpora informačních, logistických a obchodních procesů</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="ET"><TI_CY>Itaalia</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integreeritud toekeskus ja tugi infotehnoloogia (IT), logistiliste ja äriprotsesside jaoks</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="HU"><TI_CY>Olaszország</TI_CY><TI_TOWN>Párma</TI_TOWN><TI_TEXT><P>Integrált ügyfélszolgálat és támogatás IT-, logisztikai és üzleti folyamatokhoz</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="LT"><TI_CY>Italija</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integruotas pagalbos centras ir parama IT, logistikos ir verslo procesams</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="LV"><TI_CY>Itāija</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrēts atbalsta dienests un atbalsts IT, loģistikas un darbības procesiem</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="MT"><TI_CY>l-Italja</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Post fejn Jingħata Servizz u Appoġġ Integrat għal Proċessi tat-TI, Loġistiċi u tan-Negozju</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="PL"><TI_CY>Włochy</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Zintegrowany Punkt wsparcia serwisowego (Service Desk) i wsparcie dla procesów informatycznych, logistycznych i biznesowych</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="SK"><TI_CY>Taliansko</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrovaná servisná podpora a podpora IT, logistických a obchodných procesov</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="SL"><TI_CY>Italija</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrirani center za pomoč uporabnikom ter podpora za IT, logistične in poslovne procese</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="GA"><TI_CY>Iodáil, an</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Deasc seirbhíse chomhtháite agus tacaíocht do phróisis TF, lóistíochta agus gnó</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="BG"><TI_CY>Итaлия</TI_CY><TI_TOWN>Парма</TI_TOWN><TI_TEXT><P>Интегриран помощен отдел и поддръжка за ИТ, логистични и бизнес процеси</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="RO"><TI_CY>Italia</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Servicii de asistență integrată și suport pentru procesele IT, logistice și de afaceri</P></TI_TEXT></ML_TI_DOC><ML_TI_DOC LG="HR"><TI_CY>Italija</TI_CY><TI_TOWN>Parma</TI_TOWN><TI_TEXT><P>Integrirana služba za podršku za informatičke, logističke i poslovne procese</P></TI_TEXT></ML_TI_DOC></ML_TITLES><ML_AA_NAMES><AA_NAME LG="DA">Den Europæiske Fødevaresikkerhedsautoritet (EFSA)</AA_NAME><AA_NAME LG="DE">Europäische Behörde für Lebensmittelsicherheit (EFSA)</AA_NAME><AA_NAME LG="EN">European Food Safety Authority (EFSA)</AA_NAME><AA_NAME LG="ES">Autoridad Europea de Seguridad Alimentaria (EFSA)</AA_NAME><AA_NAME LG="FI">Euroopan elintarviketurvallisuusviranomainen (EFSA)</AA_NAME><AA_NAME LG="FR">Autorité européenne de sécurité des aliments (EFSA)</AA_NAME><AA_NAME LG="EL">Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)</AA_NAME><AA_NAME LG="IT">Autorità europea per la sicurezza alimentare (EFSA)</AA_NAME><AA_NAME LG="NL">Europese Autoriteit voor voedselveiligheid (EFSA)</AA_NAME><AA_NAME LG="PT">Autoridade Europeia para a Segurança dos Alimentos (EFSA)</AA_NAME><AA_NAME LG="SV">Europeiska myndigheten för livsmedelssäkerhet (Efsa)</AA_NAME><AA_NAME LG="CS">Evropský úřad pro bezpečnost potravin (EFSA)</AA_NAME><AA_NAME LG="ET">Euroopa Toiduohutusamet (EFSA)</AA_NAME><AA_NAME LG="HU">Európai Élelmiszerbiztonsági Hatóság (EFSA)</AA_NAME><AA_NAME LG="LT">Europos maisto saugos tarnyba (EFSA)</AA_NAME><AA_NAME LG="LV">Eiropas Pārtikas nekaitīguma iestāde (EFSA)</AA_NAME><AA_NAME LG="MT">L-Awtorità Ewropea dwar is-Sigurtà fl-Ikel (EFSA)</AA_NAME><AA_NAME LG="PL">Europejski Urząd ds. Bezpieczeństwa Żywności (EFSA)</AA_NAME><AA_NAME LG="SK">Európsky úrad pre bezpečnosť potravín (EFSA)</AA_NAME><AA_NAME LG="SL">Evropska agencija za varnost hrane (EFSA)</AA_NAME><AA_NAME LG="GA">An tÚdarás Eorpach um Shábháilteacht Bia (EFSA)</AA_NAME><AA_NAME LG="BG">Европейски орган за безопасност на храните (ЕОБХ)</AA_NAME><AA_NAME LG="RO">Autoritatea Europeană pentru Siguranța Alimentară (EFSA)</AA_NAME><AA_NAME LG="HR">Europska agencija za sigurnost hrane (EFSA)</AA_NAME></ML_AA_NAMES></TRANSLATION_SECTION><FORM_SECTION><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DA"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Den Europæiske Fødevaresikkerhedsautoritet (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integreret servicedesk og support til IT-, logistik- og forretningsprocedurer</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Formålet med dette udbud er at finde en kontrahent, der kan levere tjenesteydelserne beskrevet nærmere i bilag 3a (»Tekniske specifikationer, beskrivelse af tjenesteydelserne«), som skal leveres via en kvikskranke med henblik på sikring af ende-til-ende-erfaringer til interne EFSA-brugere, og som gennem rådgivningstjenester skal give et aktivt bidrag til implementering af EFSA's IT-strategi og -køreplan.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Tildelingskriterier</LABEL></WHERE><OLD_VALUE><TEXT><P>Se nedenstående kriterier</P><P>Omkostningskriterium — betegnelse: samlet vægtning af kvalitetstildelingskriterier: 70</P><P>Omkostningskriterium — betegnelse: samlet vægtning af pristildelingskriterier: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Se nedenstående kriterier</P><P>Kvalitetskriterium — betegnelse: samlet vægtning af kvalitet: 70</P><P>Pris — vægtning: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Følgende dokumenter er blevet opdateret med hensyn til registrerede ændringer og offentliggjort i e-udbudsportalen med henblik på påvisning af følgende:</P><P>— Bilag 3e centrale præstationsindikatorer og SLA</P><P>Side 14, INC01a-eksemplet skal læses som 7*20 = 140 FPU'er og ikke 7*50 = 350 FPU'er</P><P>Side 19, eksemplet i afsnit 4.4 skal læses som 3*5 = 15 FPU'er og ikke 3*50 = 15 FPU'er</P><P>— Bilag 4 krav i medfør af udvælgelseskriterier og udbedte beviser</P><P>Side 5, krav 13, 14 og 15 er blevet opdateret, og bygnings- og virksomhedstjenester er S6 og ikke S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DE"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europäische Behörde für Lebensmittelsicherheit (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integriertes Service-Desk und Unterstützung für IT-, Logistik- und Geschäftsprozesse</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Ziel dieser Ausschreibung ist die Ermittlung eines Auftragnehmers, der in der Lage ist, die in Anhang 3a („Beschreibung der technischen Spezifikationen für Dienstleistungen“) im Rahmen einer einzigen Kontaktstelle (Single Point of Contact — SPOC) detailliert beschriebenen Dienstleistungen zu erbringen, um eine End-to-End-Erfahrung für interne Nutzer der EFSA zu gewährleisten und durch Beratungsdienste aktiv zur Umsetzung der IT-Strategie und des Fahrplans der EFSA beizutragen.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Zuschlagskriterien</LABEL></WHERE><OLD_VALUE><TEXT><P>Kriterien unten</P><P>Kostenkriterium — Name: Gewichtung der Qualität der Zuschlagskriterien: 70</P><P>Kostenkriterium — Name: Gewichtung des Preises der Zuschlagskriterien: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Kriterien unten</P><P>Qualitätskriterium — Name: Qualität/Gewichtung: 70</P><P>Preis — Gewichtung: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Folgende Dokumente wurden mittels Änderungen nachverfolgend aktualisiert und in eTendering veröffentlicht, um Folgendes zu illustrieren:</P><P>— Anhang 3e KPI’s und SLA</P><P>Seite 14, Beispiel für INC01a sollte 7*20 = 140 FPUs und nicht 7*50 = 350 FPUs heißen</P><P>Seite 19, Beispiel in Abschnitt 4.4 sollte 3*5 = 15 FPUs und nicht 3*50 = 15 FPUs heißen</P><P>— Anhang 4 Anforderungen an die Auswahlkriterien und geforderte Nachweise</P><P>Seite 5, Anforderungen 13, 14 und 15 wurden aktualisiert, damit Gebäude und Unternehmensdienstleistungen S6 und nicht S7 anzeigen.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="ORIGINAL" FORM="F14" LG="EN"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>European Food Safety Authority (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrated Service Desk and Support for IT, Logistical and Business Processes</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>The objective of this call for tenders is to identify a contractor having the ability to provide the services described in detail in Annex 3a (‘Technical specifications service description’), delivered through a single point of contact (SPOC) in order to ensure an end-to-end experience for EFSA internal users and, through consultancy services, actively contributing to the implementation of EFSA IT strategy and roadmap.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Award criteria</LABEL></WHERE><OLD_VALUE><TEXT><P>Criteria below</P><P>Cost criterion — name: quality award criteria/weighting: 70</P><P>Cost criterion — name: price award criteria/weighting: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Criteria below</P><P>Quality criterion — name: quality/weighting: 70</P><P>Price — weighting: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>The following documents have been updated in track changes and published in eTendering to illustrate the following:</P><P>— Annex 3e KPI’s and SLA</P><P>Page 14, example for INC01a should read 7*20 = 140 FPUs and not 7*50 = 350 FPUs</P><P>Page 19, example in section 4.4 should read 3*5 = 15 FPUs and not 3*50 = 15 FPUs</P><P>— Annex 4 selection criteria requirements and evidence requested</P><P>Page 5, requirements 13, 14 and 15 have been updated to show building and corporate services are S6 and not S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ES"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Autoridad Europea de Seguridad Alimentaria (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Centro de atención integrado y apoyo para procesos informáticos, logísticos y empresariales</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>El objetivo de la presente licitación es identificar a un contratista que tenga la capacidad de prestar los servicios descritos en detalle en el anexo 3a («Descripción del servicio de las especificaciones técnicas»), prestados a través de un punto de contacto único para garantizar una experiencia completa a los usuarios internos de la EFSA y, a través de servicios de consultoría, contribuir activamente a la aplicación de la estrategia y la hoja de ruta de la EFSA en materia de informática.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Criterios de adjudicación</LABEL></WHERE><OLD_VALUE><TEXT><P>Criterios siguientes</P><P>Criterio de coste — nombre: criterios de adjudicación relativos a la calidad/ponderación: 70</P><P>Criterio de coste — nombre: criterios de adjudicación relativos al precio/ponderación: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Criterios siguientes</P><P>Criterios de calidad — nombre: calidad/ponderación: 70</P><P>Precio/ponderación: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Los siguientes documentos han sido actualizados con control de cambios y publicados en «eTendering» para ilustrar lo siguiente:</P><P>— Anexo 3e, indicadores clave de rendimiento y acuerdo de nivel de servicio</P><P>En la página 14, el ejemplo para INC01a debería leer 7*20 = 140 FPU y no 7*50 = 350 FPU</P><P>En la página 19, el ejemplo en el apartado 4.4 debería leer 3*5 = 15 FPU y no 3*50 = 15 FPU</P><P>— Anexo 4, requisitos para los criterios de selección y pruebas solicitadas</P><P>En la página 5, los requisitos 13, 14 y 15 han sido actualizados para indicar que los servicios corporativos y de edificios son S6 y no S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FI"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Euroopan elintarviketurvallisuusviranomainen (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integroitu palvelupiste ja tuki tietotekniikkaa, logistiikkaa ja liiketoimintaprosesseja varten</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Tämän tarjouspyynnön tavoitteena on löytää sopimusosapuoli, jolla on valmiudet toimittaa liitteessä 3a (Tekniset eritelmät – palvelujen kuvaus) yksityiskohtaisesti kuvatut palvelut. Palvelut toimitetaan yhden yhteyspisteen (Single Point of Contact – SPOC) välityksellä, jotta voidaan varmistaa kokonaisvaltainen kokemus EFSAn sisäisille käyttäjille ja jotta voidaan konsultointipalvelujen avulla aktiivisesti parantaa EFSAn tietoteknisen strategian ja etenemissuunnitelman toteuttamista.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Ratkaisuperusteet</LABEL></WHERE><OLD_VALUE><TEXT><P>Perusteet alla:</P><P>kustannusperuste – nimi: laatua koskevien ratkaisuperusteiden kokonaispainotus: 70</P><P>kustannusperuste – nimi: hintaa koskevien ratkaisuperusteiden kokonaispainotus: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Perusteet alla:</P><P>laatuperuste – nimi: laadun painotus: 70</P><P>hinnan painotus: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Seuraavat asiakirjat on päivitetty muutosten seurannassa ja julkaistu verkkotarjousjärjestelmässä seuraavien seikkojen selventämiseksi:</P><P>— liite 3e KPI-mittarit ja palvelutasosopimus</P><P>sivu 14, esimerkki INC01a pitää olla 7*20 = 140 FPU:ta eikä 7*50 = 350 FPU:ta</P><P>sivu 19, esimerkki kohdassa 4.4 pitää olla 3*5 = 15 FPU:ta eikä 3*50 = 15 FPU:ta</P><P>— liitteen 4 valintaperustevaatimukset ja edellytetyt näytöt</P><P>sivu 5, vaatimukset 13, 14 ja 15 on päivitetty siten, että kiinteistö- ja yrityspalvelut ovat S6 eikä S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FR"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Autorité européenne de sécurité des aliments (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Service Desk intégré et support pour l'informatique, la logistique et les processus d'affaires</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>L’objectif du présent appel d’offres est d’identifier un contractant en mesure de fournir les services décrits en détail dans l’annexe 3a («description des spécifications techniques»), fournis à travers un point de contact unique (SPOC) afin d’optimiser l’expérience des utilisateurs internes de l’EFSA de bout en bout, à travers des services de conseils contribuant activement à la mise en œuvre de la stratégie informatique et de la feuille de route de l’EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Critères d’attribution</LABEL></WHERE><OLD_VALUE><TEXT><P>Critères ci-dessous</P><P>Critère de coût - nom: critères d'attribution qualitatifs/pondération: 70</P><P>Critère de coût - nom: critères d'attribution liés au prix/pondération: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Critères ci-dessous</P><P>Critère de qualité — nom : qualité/pondération: 70</P><P>Prix — Pondération : 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Les documents suivants ont été mis à jour avec suivi de modifications et publiés sur eTendering pour illustrer ce qui suit:</P><P>— Annexe 3e: KPI et SLA</P><P>Page 14, exemple, pour INC01a, lire 7*20 = 140 FPU et non 7*50 = 350 FPU</P><P>Page 19, exemple dans la section 4.4, lire 3*5 = 15 FPU et non 3*50 = 15 FPU</P><P>— Annexe 4: exigences relatives aux critères de sélection et preuves requise</P><P>Page 5, les exigences 13, 14 et 15 ont été mises à jour pour montrer que les services de construction et d’entreprises sont S6 et non S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="EL"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Ολοκληρωμένο Γραφείο Εξυπηρέτησης και Υποστήριξη για διαδικασίες πληροφορικής, διαδικασίες διαχείρισης της διακίνησης εµπορευµάτων και επιχειρηματικές διαδικασίες</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Στόχος αυτής της πρόσκλησης υποβολής προσφορών είναι ο προσδιορισμός ενός αναδόχου ο οποίος θα έχει τη δυνατότητα να παρέχει τις υπηρεσίες που περιγράφονται στο Παράρτημα 3α («Περιγραφή υπηρεσιών τεχνικών προδιαγραφών»), οι οποίες εκτελούνται μέσω ενός ενιαίου κέντρου εξυπηρέτησης (SPOC - Single Point of Contact), προκειμένου να διασφαλιστεί μια ολοκληρωμένη εμπειρία για τους εσωτερικούς χρήστες της EFSA, και μέσω συμβουλευτικών υπηρεσιών, που συμβάλλουν ενεργά στην υλοποίηση της στρατηγικής ΤΠ και του χάρτη πορείας του EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Κριτήρια ανάθεσης</LABEL></WHERE><OLD_VALUE><TEXT><P>Κάτωθι κριτήρια</P><P>Κριτήριο κόστους - κριτήρια ανάθεση όσον αφορά την ποιότητα/στάθμιση: 70</P><P>Κριτήριο κόστους - ονομασία: κριτήρια ανάθεσης όσον αφορά την τιμή/στάθμιση: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Κάτωθι κριτήρια</P><P>Κριτήριο ποιότητας — όνομα: ποιότητα/στάθμιση: 70</P><P>Τιμή — Στάθμιση: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Τα ακόλουθα έγγραφα έχουν επικαιροποιηθεί με παρακολούθηση αλλαγών και έχουν δημοσιευθεί στο eTendering προκειμένου να διευκρινίσουν τα ακόλουθα:</P><P>— Παράρτημα 3ε για κύριους δείκτες επιδόσεων (KPI) και SLA (Συμφωνία επιπέδου εξυπηρέτησης)</P><P>Σελίδα 14,το παράδειγμα για το INC01a θα έπρεπε να διαβάζεται 7*20 = 140 FPUs και όχι 7*50 = 350 FPUs</P><P>Σελίδα 19, το παράδειγμα στο τμήμα 4.4 θα έπρεπε να διαβάζεται 3*5 = 15 FPUs και όχι 3*50 = 15 FPUs</P><P>— Απαιτήσεις για τα κριτήρια επιλογής του Παραρτήματος 4 και αιτούμενα αποδεικτικά στοιχεία</P><P>Σελίδα 5, οι απαιτήσεις 13, 14 και 15 έχουν ενημερωθεί προκειμένου να δείξουν ότι οι υπηρεσίες κτιρίων και οι εταιρικές υπηρεσίες είναι S6 και όχι S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="IT"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Autorità europea per la sicurezza alimentare (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Sportello di assistenza integrato e supporto per processi informatici, logistici e aziendali</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>L’obiettivo del presente bando di gara consiste nell’identificazione di un contraente in grado di prestare i servizi descritti in dettaglio all’Allegato 3a (‘Capitolato tecnico descrizione dei servizi’), consegnati attraverso un singolo punto di contatto, allo scopo di garantire un'esperienza end-to-end agli utenti interni dell'EFSA e, attraverso servizi di consulenza, contribuire attivamente all'attuazione della strategia informatica e della tabella di marcia dell'EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Criteri di aggiudicazione</LABEL></WHERE><OLD_VALUE><TEXT><P>Criteri seguenti</P><P>Criterio di costo — nome: criteri di aggiudicazione relativi alla qualità/ponderazione: 70</P><P>Criterio di costo — nome: criteri di aggiudicazione relativi al prezzo/ponderazione: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Criteri seguenti</P><P>Criterio di qualità — Nome: qualità/ponderazione: 70</P><P>Prezzo — Ponderazione: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>I seguenti documenti sono stati aggiornati con controllo delle modifiche e pubblicati in eTendering per illustrare quanto segue:</P><P>— Allegato 3e KPI e SLA</P><P>Pagina 14, l’esempio per INCO01a deve leggersi 7*20 = 140 FPUs e non 7*50 = 350 FPUs</P><P>Pagina 19, l’esempio alla sezione 4.4 deve leggersi 3*5 = 15 FPUs e non 3*50 = 15 FPUs</P><P>— Allegato 4 requisiti dei criteri di selezione ed evidenze richieste</P><P>Pagina 5, i requisiti 13, 14 e 15 sono stati aggiornati per mostrare i servizi aziendali e di edilizia che sono S6 e non S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="NL"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europese Autoriteit voor voedselveiligheid (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Geïntegreerde servicedesk en ondersteuning voor IT-, logistieke en bedrijfsprocessen.</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>De doelstelling van deze oproep tot inschrijving is het identificeren van een contractant die in staat is om de diensten te verlenen die in detail zijn beschreven in bijlage 3a („Beschrijving van de technische specificaties van de diensten”), die worden verleend via 1 enkel contactpunt (SPOC) om te zorgen voor eind-tot-eindervaring voor de interne gebruikers van de EFSA en, via adviesdiensten, actief bij te dragen aan de tenuitvoerlegging van de IT-strategie en het stappenplan van de EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Gunningscriteria</LABEL></WHERE><OLD_VALUE><TEXT><P>Onderstaande criteria:</P><P>Kostencriterium — naam: gunningscriteria inzake kwaliteit/weging: 70.</P><P>Kostprijscriterium — naam: gunningscriteria met betrekking tot de prijs/weging: 30.</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Onderstaande criteria:</P><P>Kwaliteitscriterium — naam: kwaliteit/weging: 70.</P><P>Prijs — weging: 30.</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>De volgende documenten hebben een bijgewerkte geschiedenis van wijzigingen en zijn bekendgemaakt op eTendering, ter illustratie:</P><P>— bijlage 3e KPI's en overeenkomsten inzake het dienstverleningsniveau:</P><P>bladzijde 14, bij het voorbeeld voor INC01a moet 7*20 = 140 FPU's staan en niet 7*50 = 350 FPU's;</P><P>bladzijde 19, in het voorbeeld in sectie 4.4 moet 3*5 = 15 FPU‘s staan en niet 3*50 = 15 FPU's.</P><P>— bijlage 4 vereisten met betrekking tot de selectiecriteria en vereiste bewijsstukken:</P><P>bladzijde 5, vereisten 13, 14 en 15 zijn bijgewerkt om gebouwen en bedrijfsdiensten als S6 te tonen en niet als S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PT"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Autoridade Europeia para a Segurança dos Alimentos (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Serviço de assistência integrado e apoio para TI, logística e processos de negócio</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>O objetivo do presente concurso é identificar um contratante com capacidade para prestar os serviços descritos detalhadamente no anexo 3a («Especificações técnicas - descrição do serviço»), entregues através de um ponto único de contacto, para garantir uma experiência completa aos utilizadores internos da EFSA e, através de serviços de consultoria, contribuindo ativamente para a implementação da estratégia e do roteiro de TI da EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Critérios de adjudicação</LABEL></WHERE><OLD_VALUE><TEXT><P>Critérios abaixo</P><P>Critério de custo — nome: critérios de adjudicação relativos à qualidade/ponderação: 70</P><P>Critério de custo — nome: critérios de adjudicação relativos ao preço/ponderação: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Critérios abaixo</P><P>Critério de qualidade — nome: qualidade/ponderação: 70</P><P>Preço — ponderação: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Os seguintes documentos foram atualizados nas alterações de faixa e publicados no «e-Tendering» para ilustrar o seguinte:</P><P>— Anexo 3e KPI e SLA</P><P>Na página 14, o exemplo para INC01a deve-se ler 7*20 = 140 FPUs em vez de 7*50 = 350 FPUs</P><P>Na página 19, o exemplo na secção 4.4 deve-se ler 3*5 = 15 FPUs em vez de 3*50 = 15 FPUs</P><P>— Anexo 4 critérios de seleção requisitos e comprovativos solicitados</P><P>Na página 5, os requisitos 13, 14 e 15 foram atualizados para demonstrar que os serviços empresariais e de construção são S6 e não S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SV"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europeiska myndigheten för livsmedelssäkerhet (Efsa)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrerad stödtjänst och support för processer inom it, logistik och affärsverksamhet</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Syftet med denna anbudsinfordran är att hitta en uppdragstagare som har förmåga att tillhandahålla de tjänster, som ingående beskrivs i bilaga 3a (Beskrivning av tekniska tjänstespecifikationer, ”Technical specifications service description”) och som ska levereras i form av en enda kontaktpunkt (Single Point of Contact – SPOC) för att säkerställa en genomgående upplevelse för Efsas interna användare samt, via konsulterande tjänster, aktivt bidra till implementeringen av Efsas it-strategi och -färdplan.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Tilldelningskriterier</LABEL></WHERE><OLD_VALUE><TEXT><P>Kriterier nedan</P><P>Kostnadskriterium - namn: viktning för tilldelningskriterier avseende kvalitet 70</P><P>Kostnadskriterium - namn: viktning för tilldelningskriterier avseende pris 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Kriterier nedan</P><P>Kvalitetskriterium - namn: kvalitet/viktning 70</P><P>Pris – viktning: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Följande dokument har uppdaterats i termer av spårändringar och publicerats i e-upphandling för att illustrera följande:</P><P>— Bilaga 3e nyckeluftörandeindikator och servicenivåavtal</P><P>Sida 14, exempel för INC01a ska vara 7*20 = 140 flyttalsprocessorer och inte 7*50 = 350 flyttalsprocessorer</P><P>Sida 19, exempel för avsnitt 4.4 ska vara 4*3 = 15 flyttalsprocessorer och inte 3*50 = 15 flyttalsprocessorer</P><P>— Bilaga 4 krav för uttagningskriterier och begärt bevis</P><P>Sida 5, krav 13, 14 och 15 har uppdaterats för att visa att fastighets- och företagstjänster är S6 och inte S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="CS"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Evropský úřad pro bezpečnost potravin (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrovaná uživatelská podpora a podpora informačních, logistických a obchodních procesů</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Cílem této výzvy k podání nabídek je určit zhotovitele schopného poskytnout služby popsané podrobně v příloze 3a („Technické specifikace, popis služeb“), dodané prostřednictvím jednotného kontaktního místa (SPOC) s cílem zajistit interním uživatelům EFSA koncovou zkušenost, a dále prostřednictvím poradenských služeb aktivně přispět k provádění strategie a realizačního plánu IT pro EFSA..</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Kritéria pro zadání zakázky</LABEL></WHERE><OLD_VALUE><TEXT><P>Níže uvedená kritéria</P><P>Kritérium ceny – název: kritérium pro zadání týkající se kvality/váha: 70</P><P>Kritérium ceny – název: kritérium pro zadání týkající se ceny/váha: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Níže uvedená kritéria</P><P>Kritérium kvality – název: kvalita/váha: 70</P><P>Cena – váha: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Následující dokumenty byly aktualizovány v revizi změn a publikovány v elektronickém zadávacím řízení (eTendering), aby ilustrovaly následující:</P><P>— příloha 3e klíčové ukazatele výkonnosti (KPI) a dohoda o úrovni služeb (SLA)</P><P>strana 14, příklad INC01a by měl být 7*20 = 140 FPU a nikoli 7*50 = 350 FPU</P><P>strana 19, příklad v oddíle 4.4 by měl být 3*5 = 15 FPU a nikoli 3*50 = 15 FPU</P><P>— příloha 4 požadavky na kritéria pro výběr a požadované doklady</P><P>strana 5, požadavky 13, 14 a 15 byly aktualizovány, aby odrážely budovy a podnikové služby jsou S6 a nikoli S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ET"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Euroopa Toiduohutusamet (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integreeritud toekeskus ja tugi infotehnoloogia (IT), logistiliste ja äriprotsesside jaoks</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Kõnealuse hankemenetluse eesmärk on tuvastada töövõtja, kes on võimeline osutama lisas 3a (teenuse tehniline kirjeldus) täpsemalt kirjeldatud teenuseid, mida osutatakse EFSA sisekasutajatele ühtse kontaktpunkti kaudu, et tagada algusest lõpuni kasutajakogemus, ja mis panustavad nõustamisteenuste kaudu aktiivselt EFSA IT-strateegia ja tegevuskava rakendamisse.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Lepingu sõlmimise kriteeriumid</LABEL></WHERE><OLD_VALUE><TEXT><P>Alltoodud kriteeriumid</P><P>Kulukriteerium – nimi: lepingu sõlmimise kvaliteedikriteeriumid, osakaal 70</P><P>Kulukriteerium – nimi: lepingu sõlmimise hinnakriteeriumid, osakaal 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Alltoodud kriteeriumid</P><P>kvaliteedikriteerium – nimi: kvaliteet, osakaal 70</P><P>Hind – osakaal 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Järgmised dokumendid on uuendatud muudatuste jälgimise funktsiooni kasutades ja avaldatud e-hangete platvormil ning muudatuste sisu on järgmine:</P><P>– lisa 3e KPId ja SLA</P><P>Lk 14, näite INC01a puhul tuleb lugeda 7*20 = 140 FPUd ja mitte 7*50 = 350 FPUd</P><P>Lk 19, punktis 4.4 toodud näite puhul tuleb lugeda 3*5 = 15 FPUd ja mitte 3*50 = 15 FPUd</P><P>– lisa 4 valikukriteeriumide nõuded ja nõutav tõendusmaterjal</P><P>Lk 5, uuendatud on nõuded 13, 14 ja 15, et näidata, et hoonete ja asutuse teenused on S6 ja mitte S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HU"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Európai Élelmiszerbiztonsági Hatóság (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrált ügyfélszolgálat és támogatás IT-, logisztikai és üzleti folyamatokhoz</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>A jelen ajánlati felhívás célkitűzése azon nyertes ajánlattevő kiválasztása, aki képes a 3a mellékletben („Műszaki dokumentáció – A szolgáltatás leírása”) részletesen ismertetett szolgáltatások egyablakos ügyintézési ponton keresztül történő teljes körű biztosítására az EFSA belső felhasználói számára, valamint tanácsadási szolgáltatások által aktívan hozzájárulni az EFSA IT-stratégiájának és -ütemtervének megvalósításához.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Odaítélési kritériumok</LABEL></WHERE><OLD_VALUE><TEXT><P>A kritériumokat lásd lentebb</P><P>Az árra vonatkozó kritérium — elnevezés: a minőségre vonatkozó odaítélési kritériumok/súlyszám: 70</P><P>Az árra vonatkozó kritérium — elnevezés: az árra vonatkozó odaítélési kritériumok/súlyszám: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>A kritériumokat lásd lentebb</P><P>Minőségi kritérium – elnevezés: minőség/súlyszám: 70</P><P>Ár – súlyszám: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>A következő dokumentumokat frissítették a módosításkövetőben és tették közzé az eTendering weboldalon, a következők szemléltetésére:</P><P>— 3e. melléklet KPI és szolgáltatási szintre vonatkozó megállapodás</P><P>14. oldal, példa az INC01a-ra helyesen: 7*20 = 140 FPU, a következő helyett: 7*50 = 350 FPU</P><P>19. oldal, példa 4.4 szakaszban helyesen: 3*5 = 15 FPU, a következő helyett: 3*50 = 15 FPU</P><P>— 4. melléklet, kiválasztási kritériumokra vonatkozó követelmények és bekért bizonyítékok</P><P>5. oldal, a 13., 14. és 15 követelményt frissítették: az épületre és vállalati szolgáltatásokra vonatkozó jelölés S7-ről S6-ra módosult.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LT"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europos maisto saugos tarnyba (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integruotas pagalbos centras ir parama IT, logistikos ir verslo procesams</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Šio kvietimo dalyvauti konkurse tikslas – rasti rangovą, kuris sugebėtų teikti 3a priede („Techninių specifikacijų paslaugų aprašymas“) išsamiai aprašytas paslaugas, kurios būtų teikiamos vieno langelio principu, siekiant užtikrinti EFSA vidaus vartotojų tiesioginę patirtį ir teikiant konsultacines paslaugas, aktyviai prisidedant prie EFSA IT strategijos ir veiksmų gairių įgyvendinimo.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Sutarties skyrimo kriterijai</LABEL></WHERE><OLD_VALUE><TEXT><P>Kriterijai:</P><P>Kainos kriterijus: pavadinimas: kokybės skyrimo kriterijai / bendras įvertinimas: 70</P><P>Kainos kriterijus: pavadinimas: kainos skyrimo kriterijai / bendras įvertinimas: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Kriterijai:</P><P>Kokybės kriterijus – pavadinimas: kokybė / bendras įvertinimas: 70</P><P>Kaina – lyginamoji vertė: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Šie dokumentai buvo atnaujinti su matomais pakeitimais ir paskelbti eTendering svetainėje, kad iliustruotų:</P><P>— 3e priedo PVRR ir susitarimą dėl paslaugų lygio</P><P>14 puslapis, INC01a pavyzdys turėtų būti: 7*20 = 140 FPU, o ne 7*50 = 350 FPU</P><P>19 puslapis, 4.4 dalyje pateikiamas pavyzdys turėtų būti: 3*5 = 15 FPU, o ne 3*50 = 15 FPU</P><P>— prašomi 4 priedo atrankos kriterijų reikalavimai ir įrodymai</P><P>5 puslapis, 13, 14 ir 15 reikalavimai buvo atnaujinti, kad parodytų, jog statybos ir įmonės paslaugos yra S6, o ne S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LV"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Eiropas Pārtikas nekaitīguma iestāde (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrēts atbalsta dienests un atbalsts IT, loģistikas un darbības procesiem</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Šī uzaicinājuma uz konkursu mērķis ir atrast darbuzņēmēju, kurš spētu sniegt 3a. pielikumā (“Tehniskās specifikācijas – pakalpojumu apraksts”) minētos pakalpojumus, izmantojot vienotu kontaktpunktu (SPOC), lai EFSA iekšējiem lietotājiem nodrošinātu pilnīgu (“end-to-end”) pieredzi, un konsultāciju pakalpojumu veidā aktīvi veicinātu EFSA IT stratēģijas un rīcības plāna īstenošanu.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Līguma slēgšanas tiesību piešķiršanas kritēriji</LABEL></WHERE><OLD_VALUE><TEXT><P>Zemāk minētie kritēriji</P><P>Izmaksu kritērijs – Nosaukums: Ar kvalitāti saistītie piešķiršanas kritēriji / Svērums: 70</P><P>Izmaksu kritērijs – Nosaukums: Ar cenu saistītie piešķiršanas kritēriji / Svērums: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Zemāk minētie kritēriji</P><P>Kvalitātes kritērijs – nosaukums: kvalitāte/svērums: 70</P><P>Cena – svērums: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Turpmāk minētie dokumenti ir atjaunināti ar reģistrētām izmaiņām un publicēti vietnē “eTendering”, lai norādītu turpmāko.</P><P>— Pielikums Nr. 3e par KPI un SLA</P><P>14. lpp. tekstā par INC01a piemēru ir jābūt 7*20 = 140 FPUs (nevis 7*50 = 350 FPUs).</P><P>19. lpp., 4.4. iedaļas piemēra tekstā ir jābūt 3*5 = 15 FPUs (nevis 3*50 = 15 FPUs).</P><P>— Pielikums Nr. 4 par atlases kritēriju prasībām un pieprasītajiem pierādījumiem</P><P>5. lpp. ir precizēta 13., 14. un 15. prasība, norādot, ka ēku un korporatīvie pakalpojumi ir S6 (nevis S7).</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="MT"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>L-Awtorità Ewropea dwar is-Sigurtà fl-Ikel (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Post fejn Jingħata Servizz u Appoġġ Integrat għal Proċessi tat-TI, Loġistiċi u tan-Negozju</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>L-għan ta' din is-sejħa ta' offerti huwa li jidentifika kuntrattur li għandu l-ħila jipprovdi s-servizzi deskritti fid-dettall fl-Anness 3a ("Deskrizzjoni tas-servizz ta' speċifikazzjonijiet tekniċi"), imwassla minn punt uniku ta' kuntatt (SPOC) sabiex jiżgura esperjenza mill-bidu sal-aħħar tal-utenti interni tal-EFSA u, permezz ta' servizzi ta' konsulenza, li jikkontribwixxu fl-implimentazzjoni tal-istrateġija tat-TI u pjan ta' tħejjija tal-EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Il-kriterji tal-għoti</LABEL></WHERE><OLD_VALUE><TEXT><P>Il-kriterji t'hawn taħt</P><P>Il-kriterju tal-ispiża — l-isem: il-kriterji tal-għoti bbażati fuq il-kwalità/il-punteġġ: 70</P><P>Il-kriterju tal-ispiża — l-isem: il-kriterji tal-għoti bbażati fuq il-prezz/il-punteġġ: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Il-kriterji t'hawn taħt</P><P>Il-kriterju tal-kwalità — l-isem: il-kwalità/il-punteġġ: 70</P><P>Il-prezz — il-punteġġ: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Id-dokumenti li ġejjin ġew aġġornati bi track changes u ppubblikati fuq eTendering biex jiġi spjegat li ġej:</P><P>— l-Anness 3e KPIs u SLA</P><P>Il-paġna 14, l-eżempju għal INC01a għandu jgħid 7*20 = 140 FPUs u mhux 7*50 = 350 FPUs</P><P>Il-paġna 19, l-eżempju fit-taqsima 4.4 għandu jgħid 3*5 = 15 FPUs u mhux 3*50 = 15 FPUs</P><P>— l-Anness 4 ir-rekwiżiti tal-kriterji tal-għażla u l-prova mitluba</P><P>Il-paġna 5, ir-rekwiżiti 13, 14 u 15 ġew aġġornati biex jintwera li s-servizzi ta' bini u korporattivi huma S6 u mhux S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PL"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europejski Urząd ds. Bezpieczeństwa Żywności (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Zintegrowany Punkt wsparcia serwisowego (Service Desk) i wsparcie dla procesów informatycznych, logistycznych i biznesowych</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Celem niniejszego zaproszenia do składania ofert jest wybór wykonawcy mającego zdolność do zapewnienia usług opisanych szczegółowo w załączniku 3a („Specyfikacja techniczna usługi”), świadczonych za pośrednictwem pojedynczego punktu kontaktowego w celu zapewnienia obsługi wewnętrznych użytkowników końcowych w EFSA oraz poprzez usługi doradcze, aktywnego przyczynienia się do wdrażania strategii IT i planu działania EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Kryteria udzielenia zamówienia</LABEL></WHERE><OLD_VALUE><TEXT><P>Poniższe kryteria</P><P>Kryterium dotyczące kosztów — nazwa: kryteria udzielenia zamówienia dotyczące jakości/waga: 70</P><P>Kryterium dotyczące kosztów — nazwa: kryteria udzielenia zamówienia dotyczące ceny/waga: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Poniższe kryteria</P><P>Kryterium jakościowe — nazwa: jakość/waga: 70</P><P>Cena — waga: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Następujące dokumenty zostały zaktualizowane w trybie śledzenia zmian i opublikowane w witrynie eTendering, aby zilustrować następujące:</P><P>— Załącznik 3: Kluczowy wskaźnik wydajności i umowa o gwarantowanym poziomie usług</P><P>Strona 14, przykład dla INC01a, powinno być 7*20 = 140 koprocesorów numerycznych (FPU) zamiast 7*50 = 350 FPU</P><P>Strona 19, przykład w pkt 4.4, powinno być 3*5 = 15 FPU zamiast 3*50 = 15 FPU</P><P>— Załącznik 4: Wymagania w zakresie kryteriów wyboru i wymagane dowody</P><P>Strona 5, wymagania 13, 14 i 15 zostały zaktualizowane tak, aby wykazać, że usługi budowlane i korporacyjne to S6, a nie S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SK"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Európsky úrad pre bezpečnosť potravín (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrovaná servisná podpora a podpora IT, logistických a obchodných procesov</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Cieľom tejto výzvy na predkladanie ponúk je identifikovať dodávateľa, ktorý je schopný poskytovať služby podrobne opísané v prílohe 3a („Opis služby technických špecifikácií“), dodávané prostredníctvom jednotného kontaktného miesta (Single Point of Contact – SPOC), aby sa zabezpečila od začiatku až do konca skúsenosť pre interných používateľov EFSA, a prostredníctvom poradenských služieb aktívne prispievať k vykonávaniu IT stratégie a plánu realizácie úradu EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Kritériá vyhodnotenia ponúk</LABEL></WHERE><OLD_VALUE><TEXT><P>Kritériá nižšie</P><P>Cenové kritérium – názov: kritériá vyhodnotenia ponuky z hľadiska kvality/váhovanie: 70</P><P>Cenové kritérium – názov: kritériá vyhodnotenia ponuky z hľadiska ceny/váhovanie: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Kritériá nižšie</P><P>Kritérium kvality – názov: kvalita/váhovanie: 70</P><P>Cena – váhovanie: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Nasledujúce dokumenty boli aktualizované v rámci sledovania zmien („Track changes“) a uverejnené v elektronickom predkladaní ponúk eTendering, aby sa ilustrovali tieto skutočnosti:</P><P>— kľúčové ukazovatele výkonu (KPI) a úroveň poskytovaných služieb (SLA) v rámci prílohy 3e</P><P>strana 14, príklad pre INC01a má vyzerať takto: 7 * 20 = 140 FPU, a nie 7 * 50 = 350 FPU</P><P>strana 19, príklad v oddiele 4.4 má vyzerať takto: 3 * 5 = 15 FPU, a nie 3 * 50 = 15 FPU</P><P>— požiadavky kritérií výberu a požadované dôkazy uvedené v prílohe 4</P><P>strana 5, požiadavky 13, 14 a 15 boli aktualizované tak, aby ukazovali, že budovy a podnikové služby sú S6, a nie S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SL"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Evropska agencija za varnost hrane (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrirani center za pomoč uporabnikom ter podpora za IT, logistične in poslovne procese</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Cilj tega javnega razpisa je izbrati izvajalca, ki bo sposoben zagotavljati storitve, podrobneje opisane v Prilogi 3a (Opis tehničnih specifikacij storitev), ki se bodo izvajale prek enotne kontaktne točke za zagotovitev celovite uporabniške izkušnje za notranje uporabnike EFSA s svetovalnimi storitvami, ki bodo dejavno prispevale k izvajanju informacijske strategije in načrta EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Merila za oddajo</LABEL></WHERE><OLD_VALUE><TEXT><P>Spodnja merila</P><P>Merilo stroškov – ime: merila kakovosti za oddajo/ponderiranje: 70</P><P>Merilo stroškov – ime: merila cene za oddajo/ponderiranje: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Spodnja merila</P><P>Merilo kakovosti – ime: kakovost/ponderiranje: 70</P><P>Cena – ponderiranje: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Naslednji dokumenti so bili posodobljeni, z označenimi popravki, in objavljeni na portalu eTendering ter navajajo naslednje:</P><P>— Priloga 3e – ključni kazalniki uspešnosti in sporazum o ravni storitev</P><P>Stran 14, primer INC01a se glasi 7*20 = 140 FPU in ne 7*50 = 350 FPU</P><P>Stran 19, primer iz oddelka 4.4 se glasi 3*5 = 15 FPU in ne 3*50 = 15 FPU</P><P>— Priloga 4 – zahteve v zvezi z merili za izbor in zahtevana dokazila</P><P>Stran 5, zahteve 13, 14 in 15 so posodobljene; stavbne in korporativne storitve so zdaj navedene pod S6 in ne S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="GA"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>An tÚdarás Eorpach um Shábháilteacht Bia (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Deasc seirbhíse chomhtháite agus tacaíocht do phróisis TF, lóistíochta agus gnó</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Is é cuspóir an ghlao seo ar thairiscintí conraitheoir a shainaithint a bhfuil sé de chumas aige na seirbhísí a thuairiscítear go mion in Iarscríbhinn 3a (‘Tuairisc seirbhíse sonraíochtaí teicniúla’) a sholáthar, a sheachadtar trí Phointe Teagmhála Aonair (PTA) d’fhonn eispéireas ceann go ceann a chinntiú d'úsáideoirí inmheánacha EFSA agus, trí sheirbhísí comhairliúcháin, ach cur go gníomhach le cur i bhfeidhm straitéis agus threochlár TF EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Critéir dhámhachtana</LABEL></WHERE><OLD_VALUE><TEXT><P>Critéir thíosluaite</P><P>Critéar costais — ainm: critéir na dámhachtana um cháilíocht/ualú: 70</P><P>Critéar costais — ainm: critéir na dámhachtana um phraghas/ualú: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Critéir thíosluaite</P><P>Critéar cáilíochta — ainm: cáilíocht/ualú: 70</P><P>Praghas — ualú: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Nuashonraíodh na doiciméid a leanas i rianaigh athruithe agus foilsíodh iad in eTendering chun na nithe a leanas a léiriú:</P><P>— Iarscríbhinn 3e KPInna agus SLA</P><P>Leathanach 14, mar shampla ar chóir INC01a a léamh mar 7*20 = 140 FPU agus ní mar 7*50 = 350 FPU</P><P>Ba chóir leathanach 19, mar shampla i gcuid 4.4 a léamh mar 3 * 5 = 15 FPU agus ní mar 3 * 50 = 15 FPU</P><P>— Ceanglais maidir le critéir roghnúcháin Iarscríbhinn 4 agus an fhianaise a iarrtar</P><P>Leathanach 5, nuashonraíodh riachtanais 13, 14 agus 15 chun seirbhísí tógála agus seirbhísí corparáideacha a thaispeáint mar S6 agus ní mar S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="BG"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Европейски орган за безопасност на храните (ЕОБХ)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Интегриран помощен отдел и поддръжка за ИТ, логистични и бизнес процеси</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Целта на тази покана за участие в търг е да се открие изпълнител с възможност да предоставя услугите, описани подробно в приложение 3а („Технически спецификации - описание на услуги“), предоставяни чрез единно звено за контакт (SPoC), за да се осигури опит от крайна точка до крайна точка за вътрешните потребители на ЕОБХ и, чрез консултантски услуги активно да се допринесе за изпълнението на ИТ стратегия и пътна карта на ЕОБХ.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Критерии за възлагане</LABEL></WHERE><OLD_VALUE><TEXT><P>Следните критерии</P><P>Критерий за разходи — наименование: критерий на възлагане по отношение на качеството/тежест: 70</P><P>Критерий за разходи — наименование: критерий на възлагане по отношение на цената/тежест: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Следните критерии</P><P>Критерий за качество — наименование: качество/тежест: 70</P><P>Цена — Тежест: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Следните документи бяха актуализирани с проследяване на промените и публикувани в eTendering, за да илюстрират следното:</P><P>— Приложение 3 Ключови показатели за ефективност и Споразумение за ниво на услугата</P><P>Стр. 14, пример за INC01a трябва да се чете като 7*20 = 140 FPUs, а не като 7*50 = 350 FPUs</P><P>Стр. 19, пример в раздел 4.4 трябва да се чете като 3*5 = 15 FPUs, а не като 3*50 = 15 FPUs</P><P>— Приложение 4 Изисквания за критериите за подбор и необходими доказателства</P><P>Стр. 5, изисквания 13, 14 и 15 бяха актуализирани, за да посочат, че строителните и корпоративните услуги са S6, а не S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="RO"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Autoritatea Europeană pentru Siguranța Alimentară (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Servicii de asistență integrată și suport pentru procesele IT, logistice și de afaceri</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Obiectivul prezentei licitații este identificarea unui contractant care are capacitatea de a presta serviciile descrise în detaliu în Anexa 3a („Descrierea specificațiilor tehnice ale serviciilor”), livrate printr-un punct de contact unic (SPOC) pentru a asigura experiența de la un capăt la altul pentru utilizatorii interni ai EFSA și, prin servicii de consultanță, să contribuie activ la punerea în aplicare a strategiei și a foii de parcurs IT EFSA.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Criterii de atribuire</LABEL></WHERE><OLD_VALUE><TEXT><P>Criteriile de mai jos</P><P>Criteriul privind costul — denumirea: criteriile de atribuire legate de calitate/pondere: 70</P><P>Criteriul privind costul — denumirea: criteriile de atribuire legate de preț/pondere: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Criteriile de mai jos</P><P>Criteriul privind calitatea — Denumirea: calitatea/ponderea: 70</P><P>Prețul— Ponderea: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Următoarele documente au fost actualizate cu urmărirea modificărilor și publicate pe eTendering pentru a prezenta următoarele:</P><P>— Anexa 3 indicatorii cheie de performanță (KPI) și acordul privind nivelul serviciilor (SLA)</P><P>Pagina 14, de exemplu pentru INC01a ar trebui să se citească 7 *20 = 140 FPU și nu 7 * 50 = 350 FPU</P><P>Pagina 19, de exemplu în secțiunea 4.4 ar trebui să citească 3*5 = 15 FPU și nu 3 * 50 = 15 FPU</P><P>— Anexa 4 cerințe privind criteriile de selecție și dovezile solicitate</P><P>Pagina 5, cerințele 13, 14 și 15 au fost actualizate pentru a arăta că serviciile de construcții și corporative sunt S6 și nu S7.</P></INFO_ADD></CHANGES></F14_2014><F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HR"><LEGAL_BASIS VALUE="32018R1046"/><CONTRACTING_BODY><ADDRESS_CONTRACTING_BODY><OFFICIALNAME>Europska agencija za sigurnost hrane (EFSA)</OFFICIALNAME><ADDRESS>Via Carlo Magno 1A</ADDRESS><TOWN>Parma</TOWN><POSTAL_CODE>43126</POSTAL_CODE><COUNTRY VALUE="IT"/><E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL><n2016:NUTS CODE="ITH52"/><URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL><URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER></ADDRESS_CONTRACTING_BODY></CONTRACTING_BODY><OBJECT_CONTRACT><TITLE><P>Integrirana služba za podršku za informatičke, logističke i poslovne procese</P></TITLE><REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER><CPV_MAIN><CPV_CODE CODE="72000000"/></CPV_MAIN><TYPE_CONTRACT CTYPE="SERVICES"/><SHORT_DESCR><P>Cilj je poziva za nadmetanje identificirati izvoditelja koji ima mogućnost pružanja usluga detaljno opisanih u Prilogu 3a („Opis usluge tehničkih specifikacija“), dostavljenih putem jedinstvene službe(osobe) za kontakt (Single Point of Contact - SPOC) kako bi se osiguralo cjelokupno iskustvo za unutarnje korisnike EFSA-e i, putem savjetodavnih usluga, aktivno doprinoseći provedbi EFSA-ove IT strategije i plana.</P></SHORT_DESCR></OBJECT_CONTRACT><COMPLEMENTARY_INFO><DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE><NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ></COMPLEMENTARY_INFO><CHANGES><CHANGE PUBLICATION="YES"><WHERE><SECTION>II.2.5)</SECTION><LABEL>Kriteriji za dodjelu</LABEL></WHERE><OLD_VALUE><TEXT><P>Kriteriji u nastavku</P><P>Kriterij cijene — naziv: kriteriji kvalitete za odabir ponude/ponder: 70</P><P>Kriterij cijene — naziv: kriteriji cijene za odabir ponude/ponder: 30</P></TEXT></OLD_VALUE><NEW_VALUE><TEXT><P>Kriteriji u nastavku</P><P>Kriterij kvalitete — naziv: kvaliteta/ponder: 70</P><P>Cijena — ponder: 30</P></TEXT></NEW_VALUE></CHANGE><INFO_ADD><P>Sljedeći su dokumenti ažurirani s praćenjem promjena i objavljeni su na e-nadmetanju kako bi ilustrirali sljedeće:</P><P>— Prilog 3e KPI-ji i SLA</P><P>Stranica 14, primjer za INC01a treba glasiti 7*20 = 140 FPU-eva, a ne 7*50 = 350 FPU-eva</P><P>Stranica 19, primjer u odjeljku 4.4 treba glasiti 3*5 = 15 FPU-eva, a ne 3*50 = 15 FPU-eva</P><P>— Prilog 4 zahtjevi kriterija za odabir i traženi dokazi</P><P>Stranica 5, zahtjevi 13, 14 i 15 ažurirani su i prikazuju zgradu i korporativne usluge u S6, a ne S7</P></INFO_ADD></CHANGES></F14_2014></FORM_SECTION></TED_EXPORT>
+<?xml version="1.0" encoding="UTF-8"?>
+<TED_EXPORT xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication"
+    xmlns:n2016="http://publications.europa.eu/resource/schema/ted/2016/nuts"
+    xsi:schemaLocation="http://publications.europa.eu/resource/schema/ted/R2.0.9/publication TED_EXPORT.xsd"
+    VERSION="R2.0.9.S03.E01" DOC_ID="590306-2019" EDITION="2019241">
+    <TECHNICAL_SECTION>
+        <RECEPTION_ID>19-604494-001</RECEPTION_ID>
+        <DELETION_DATE>20200217</DELETION_DATE>
+        <FORM_LG_LIST>DA DE EN ES FI FR EL IT NL PT SV CS ET HU LT LV MT PL SK SL GA BG RO HR </FORM_LG_LIST>
+        <COMMENTS>From Convertor</COMMENTS>
+    </TECHNICAL_SECTION>
+    <LINKS_SECTION>
+        <XML_SCHEMA_DEFINITION_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"
+            xlink:title="TED WEBSITE"/>
+        <OFFICIAL_FORMS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <FORMS_LABELS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <ORIGINAL_CPV_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+        <ORIGINAL_NUTS_LINK xlink:type="simple" xlink:href="http://ted.europa.eu"/>
+    </LINKS_SECTION>
+    <CODED_DATA_SECTION>
+        <REF_OJS>
+            <COLL_OJ>S</COLL_OJ>
+            <NO_OJ>241</NO_OJ>
+            <DATE_PUB>20191213</DATE_PUB>
+        </REF_OJS>
+        <NOTICE_DATA>
+            <NO_DOC_OJS>2019/S 241-590306</NO_DOC_OJS>
+            <URI_LIST>
+                <URI_DOC LG="DA"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:DA:HTML</URI_DOC>
+                <URI_DOC LG="DE"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:DE:HTML</URI_DOC>
+                <URI_DOC LG="EN"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:EN:HTML</URI_DOC>
+                <URI_DOC LG="ES"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:ES:HTML</URI_DOC>
+                <URI_DOC LG="FI"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:FI:HTML</URI_DOC>
+                <URI_DOC LG="FR"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:FR:HTML</URI_DOC>
+                <URI_DOC LG="EL"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:EL:HTML</URI_DOC>
+                <URI_DOC LG="IT"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:IT:HTML</URI_DOC>
+                <URI_DOC LG="NL"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:NL:HTML</URI_DOC>
+                <URI_DOC LG="PT"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:PT:HTML</URI_DOC>
+                <URI_DOC LG="SV"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SV:HTML</URI_DOC>
+                <URI_DOC LG="CS"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:CS:HTML</URI_DOC>
+                <URI_DOC LG="ET"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:ET:HTML</URI_DOC>
+                <URI_DOC LG="HU"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:HU:HTML</URI_DOC>
+                <URI_DOC LG="LT"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:LT:HTML</URI_DOC>
+                <URI_DOC LG="LV"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:LV:HTML</URI_DOC>
+                <URI_DOC LG="MT"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:MT:HTML</URI_DOC>
+                <URI_DOC LG="PL"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:PL:HTML</URI_DOC>
+                <URI_DOC LG="SK"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SK:HTML</URI_DOC>
+                <URI_DOC LG="SL"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:SL:HTML</URI_DOC>
+                <URI_DOC LG="GA"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:GA:HTML</URI_DOC>
+                <URI_DOC LG="BG"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:BG:HTML</URI_DOC>
+                <URI_DOC LG="RO"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:RO:HTML</URI_DOC>
+                <URI_DOC LG="HR"
+                    >http://ted.europa.eu/udl?uri=TED:NOTICE:590306-2019:TEXT:HR:HTML</URI_DOC>
+            </URI_LIST>
+            <LG_ORIG>EN</LG_ORIG>
+            <ISO_COUNTRY VALUE="IT"/>
+            <IA_URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</IA_URL_GENERAL>
+            <ORIGINAL_CPV CODE="79990000">Miscellaneous business-related services</ORIGINAL_CPV>
+            <ORIGINAL_CPV CODE="72000000">IT services: consulting, software development, Internet
+                and support</ORIGINAL_CPV>
+            <n2016:PERFORMANCE_NUTS CODE="ITH52">Parma</n2016:PERFORMANCE_NUTS>
+            <n2016:CA_CE_NUTS CODE="ITH52">Parma</n2016:CA_CE_NUTS>
+            <REF_NOTICE>
+                <NO_DOC_OJS>2019/S 228-558368</NO_DOC_OJS>
+            </REF_NOTICE>
+        </NOTICE_DATA>
+        <CODIF_DATA>
+            <DS_DATE_DISPATCH>20191210</DS_DATE_DISPATCH>
+            <DT_DATE_FOR_SUBMISSION>20200217 14:30</DT_DATE_FOR_SUBMISSION>
+            <AA_AUTHORITY_TYPE CODE="5">European Institution/Agency or International
+                Organisation</AA_AUTHORITY_TYPE>
+            <TD_DOCUMENT_TYPE CODE="2">Additional information</TD_DOCUMENT_TYPE>
+            <NC_CONTRACT_NATURE CODE="4">Services</NC_CONTRACT_NATURE>
+            <PR_PROC CODE="1">Open procedure</PR_PROC>
+            <RP_REGULATION CODE="3">European Institution/Agency or International
+                Organisation</RP_REGULATION>
+            <TY_TYPE_BID CODE="1">Submission for all lots</TY_TYPE_BID>
+            <AC_AWARD_CRIT CODE="2">The most economic tender</AC_AWARD_CRIT>
+            <MA_MAIN_ACTIVITIES CODE="S">General public services</MA_MAIN_ACTIVITIES>
+            <HEADING>AGC14</HEADING>
+            <INITIATOR>AG</INITIATOR>
+        </CODIF_DATA>
+    </CODED_DATA_SECTION>
+    <TRANSLATION_SECTION>
+        <ML_TITLES>
+            <ML_TI_DOC LG="DA">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integreret servicedesk og support til IT-, logistik- og
+                        forretningsprocedurer</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="DE">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integriertes Service-Desk und Unterstützung für IT-, Logistik- und
+                        Geschäftsprozesse</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EN">
+                <TI_CY>Italy</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrated Service Desk and Support for IT, Logistical and Business
+                        Processes</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ES">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Centro de atención integrado y apoyo para procesos informáticos, logísticos y
+                        empresariales</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FI">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integroitu palvelupiste ja tuki tietotekniikkaa, logistiikkaa ja
+                        liiketoimintaprosesseja varten</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="FR">
+                <TI_CY>Italie</TI_CY>
+                <TI_TOWN>Parme</TI_TOWN>
+                <TI_TEXT>
+                    <P>Service Desk intégré et support pour l'informatique, la logistique et les
+                        processus d'affaires</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="EL">
+                <TI_CY>Ιταλία</TI_CY>
+                <TI_TOWN>Πάρμα</TI_TOWN>
+                <TI_TEXT>
+                    <P>Ολοκληρωμένο Γραφείο Εξυπηρέτησης και Υποστήριξη για διαδικασίες
+                        πληροφορικής, διαδικασίες διαχείρισης της διακίνησης εµπορευµάτων και
+                        επιχειρηματικές διαδικασίες</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="IT">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Sportello di assistenza integrato e supporto per processi informatici,
+                        logistici e aziendali</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="NL">
+                <TI_CY>Italië</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Geïntegreerde servicedesk en ondersteuning voor IT-, logistieke en
+                        bedrijfsprocessen.</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PT">
+                <TI_CY>Itália</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Serviço de assistência integrado e apoio para TI, logística e processos de
+                        negócio</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SV">
+                <TI_CY>Italien</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrerad stödtjänst och support för processer inom it, logistik och
+                        affärsverksamhet</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="CS">
+                <TI_CY>Itálie</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrovaná uživatelská podpora a podpora informačních, logistických a
+                        obchodních procesů</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="ET">
+                <TI_CY>Itaalia</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integreeritud toekeskus ja tugi infotehnoloogia (IT), logistiliste ja
+                        äriprotsesside jaoks</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HU">
+                <TI_CY>Olaszország</TI_CY>
+                <TI_TOWN>Párma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrált ügyfélszolgálat és támogatás IT-, logisztikai és üzleti
+                        folyamatokhoz</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LT">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integruotas pagalbos centras ir parama IT, logistikos ir verslo procesams</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="LV">
+                <TI_CY>Itāija</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrēts atbalsta dienests un atbalsts IT, loģistikas un darbības
+                        procesiem</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="MT">
+                <TI_CY>l-Italja</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Post fejn Jingħata Servizz u Appoġġ Integrat għal Proċessi tat-TI, Loġistiċi
+                        u tan-Negozju</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="PL">
+                <TI_CY>Włochy</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Zintegrowany Punkt wsparcia serwisowego (Service Desk) i wsparcie dla
+                        procesów informatycznych, logistycznych i biznesowych</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SK">
+                <TI_CY>Taliansko</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrovaná servisná podpora a podpora IT, logistických a obchodných
+                        procesov</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="SL">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrirani center za pomoč uporabnikom ter podpora za IT, logistične in
+                        poslovne procese</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="GA">
+                <TI_CY>Iodáil, an</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Deasc seirbhíse chomhtháite agus tacaíocht do phróisis TF, lóistíochta agus
+                        gnó</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="BG">
+                <TI_CY>Итaлия</TI_CY>
+                <TI_TOWN>Парма</TI_TOWN>
+                <TI_TEXT>
+                    <P>Интегриран помощен отдел и поддръжка за ИТ, логистични и бизнес процеси</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="RO">
+                <TI_CY>Italia</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Servicii de asistență integrată și suport pentru procesele IT, logistice și
+                        de afaceri</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+            <ML_TI_DOC LG="HR">
+                <TI_CY>Italija</TI_CY>
+                <TI_TOWN>Parma</TI_TOWN>
+                <TI_TEXT>
+                    <P>Integrirana služba za podršku za informatičke, logističke i poslovne
+                        procese</P>
+                </TI_TEXT>
+            </ML_TI_DOC>
+        </ML_TITLES>
+        <ML_AA_NAMES>
+            <AA_NAME LG="DA">Den Europæiske Fødevaresikkerhedsautoritet (EFSA)</AA_NAME>
+            <AA_NAME LG="DE">Europäische Behörde für Lebensmittelsicherheit (EFSA)</AA_NAME>
+            <AA_NAME LG="EN">European Food Safety Authority (EFSA)</AA_NAME>
+            <AA_NAME LG="ES">Autoridad Europea de Seguridad Alimentaria (EFSA)</AA_NAME>
+            <AA_NAME LG="FI">Euroopan elintarviketurvallisuusviranomainen (EFSA)</AA_NAME>
+            <AA_NAME LG="FR">Autorité européenne de sécurité des aliments (EFSA)</AA_NAME>
+            <AA_NAME LG="EL">Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)</AA_NAME>
+            <AA_NAME LG="IT">Autorità europea per la sicurezza alimentare (EFSA)</AA_NAME>
+            <AA_NAME LG="NL">Europese Autoriteit voor voedselveiligheid (EFSA)</AA_NAME>
+            <AA_NAME LG="PT">Autoridade Europeia para a Segurança dos Alimentos (EFSA)</AA_NAME>
+            <AA_NAME LG="SV">Europeiska myndigheten för livsmedelssäkerhet (Efsa)</AA_NAME>
+            <AA_NAME LG="CS">Evropský úřad pro bezpečnost potravin (EFSA)</AA_NAME>
+            <AA_NAME LG="ET">Euroopa Toiduohutusamet (EFSA)</AA_NAME>
+            <AA_NAME LG="HU">Európai Élelmiszerbiztonsági Hatóság (EFSA)</AA_NAME>
+            <AA_NAME LG="LT">Europos maisto saugos tarnyba (EFSA)</AA_NAME>
+            <AA_NAME LG="LV">Eiropas Pārtikas nekaitīguma iestāde (EFSA)</AA_NAME>
+            <AA_NAME LG="MT">L-Awtorità Ewropea dwar is-Sigurtà fl-Ikel (EFSA)</AA_NAME>
+            <AA_NAME LG="PL">Europejski Urząd ds. Bezpieczeństwa Żywności (EFSA)</AA_NAME>
+            <AA_NAME LG="SK">Európsky úrad pre bezpečnosť potravín (EFSA)</AA_NAME>
+            <AA_NAME LG="SL">Evropska agencija za varnost hrane (EFSA)</AA_NAME>
+            <AA_NAME LG="GA">An tÚdarás Eorpach um Shábháilteacht Bia (EFSA)</AA_NAME>
+            <AA_NAME LG="BG">Европейски орган за безопасност на храните (ЕОБХ)</AA_NAME>
+            <AA_NAME LG="RO">Autoritatea Europeană pentru Siguranța Alimentară (EFSA)</AA_NAME>
+            <AA_NAME LG="HR">Europska agencija za sigurnost hrane (EFSA)</AA_NAME>
+        </ML_AA_NAMES>
+    </TRANSLATION_SECTION>
+    <FORM_SECTION>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DA">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Den Europæiske Fødevaresikkerhedsautoritet (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integreret servicedesk og support til IT-, logistik- og
+                        forretningsprocedurer</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Formålet med dette udbud er at finde en kontrahent, der kan levere
+                        tjenesteydelserne beskrevet nærmere i bilag 3a (»Tekniske specifikationer,
+                        beskrivelse af tjenesteydelserne«), som skal leveres via en kvikskranke med
+                        henblik på sikring af ende-til-ende-erfaringer til interne EFSA-brugere, og
+                        som gennem rådgivningstjenester skal give et aktivt bidrag til
+                        implementering af EFSA's IT-strategi og -køreplan.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Tildelingskriterier</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Se nedenstående kriterier</P>
+                            <P>Omkostningskriterium — betegnelse: samlet vægtning af
+                                kvalitetstildelingskriterier: 70</P>
+                            <P>Omkostningskriterium — betegnelse: samlet vægtning af
+                                pristildelingskriterier: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Se nedenstående kriterier</P>
+                            <P>Kvalitetskriterium — betegnelse: samlet vægtning af kvalitet: 70</P>
+                            <P>Pris — vægtning: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Følgende dokumenter er blevet opdateret med hensyn til registrerede ændringer
+                        og offentliggjort i e-udbudsportalen med henblik på påvisning af
+                        følgende:</P>
+                    <P>— Bilag 3e centrale præstationsindikatorer og SLA</P>
+                    <P>Side 14, INC01a-eksemplet skal læses som 7*20 = 140 FPU'er og ikke 7*50 = 350
+                        FPU'er</P>
+                    <P>Side 19, eksemplet i afsnit 4.4 skal læses som 3*5 = 15 FPU'er og ikke 3*50 =
+                        15 FPU'er</P>
+                    <P>— Bilag 4 krav i medfør af udvælgelseskriterier og udbedte beviser</P>
+                    <P>Side 5, krav 13, 14 og 15 er blevet opdateret, og bygnings- og
+                        virksomhedstjenester er S6 og ikke S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="DE">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europäische Behörde für Lebensmittelsicherheit
+                        (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integriertes Service-Desk und Unterstützung für IT-, Logistik- und
+                        Geschäftsprozesse</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Ziel dieser Ausschreibung ist die Ermittlung eines Auftragnehmers, der in der
+                        Lage ist, die in Anhang 3a („Beschreibung der technischen Spezifikationen
+                        für Dienstleistungen“) im Rahmen einer einzigen Kontaktstelle (Single Point
+                        of Contact — SPOC) detailliert beschriebenen Dienstleistungen zu erbringen,
+                        um eine End-to-End-Erfahrung für interne Nutzer der EFSA zu gewährleisten
+                        und durch Beratungsdienste aktiv zur Umsetzung der IT-Strategie und des
+                        Fahrplans der EFSA beizutragen.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Zuschlagskriterien</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Kriterien unten</P>
+                            <P>Kostenkriterium — Name: Gewichtung der Qualität der
+                                Zuschlagskriterien: 70</P>
+                            <P>Kostenkriterium — Name: Gewichtung des Preises der
+                                Zuschlagskriterien: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Kriterien unten</P>
+                            <P>Qualitätskriterium — Name: Qualität/Gewichtung: 70</P>
+                            <P>Preis — Gewichtung: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Folgende Dokumente wurden mittels Änderungen nachverfolgend aktualisiert und
+                        in eTendering veröffentlicht, um Folgendes zu illustrieren:</P>
+                    <P>— Anhang 3e KPI’s und SLA</P>
+                    <P>Seite 14, Beispiel für INC01a sollte 7*20 = 140 FPUs und nicht 7*50 = 350
+                        FPUs heißen</P>
+                    <P>Seite 19, Beispiel in Abschnitt 4.4 sollte 3*5 = 15 FPUs und nicht 3*50 = 15
+                        FPUs heißen</P>
+                    <P>— Anhang 4 Anforderungen an die Auswahlkriterien und geforderte Nachweise</P>
+                    <P>Seite 5, Anforderungen 13, 14 und 15 wurden aktualisiert, damit Gebäude und
+                        Unternehmensdienstleistungen S6 und nicht S7 anzeigen.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="ORIGINAL" FORM="F14" LG="EN">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>European Food Safety Authority (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrated Service Desk and Support for IT, Logistical and Business
+                        Processes</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>The objective of this call for tenders is to identify a contractor having the
+                        ability to provide the services described in detail in Annex 3a (‘Technical
+                        specifications service description’), delivered through a single point of
+                        contact (SPOC) in order to ensure an end-to-end experience for EFSA internal
+                        users and, through consultancy services, actively contributing to the
+                        implementation of EFSA IT strategy and roadmap.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Award criteria</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Criteria below</P>
+                            <P>Cost criterion — name: quality award criteria/weighting: 70</P>
+                            <P>Cost criterion — name: price award criteria/weighting: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Criteria below</P>
+                            <P>Quality criterion — name: quality/weighting: 70</P>
+                            <P>Price — weighting: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>The following documents have been updated in track changes and published in
+                        eTendering to illustrate the following:</P>
+                    <P>— Annex 3e KPI’s and SLA</P>
+                    <P>Page 14, example for INC01a should read 7*20 = 140 FPUs and not 7*50 = 350
+                        FPUs</P>
+                    <P>Page 19, example in section 4.4 should read 3*5 = 15 FPUs and not 3*50 = 15
+                        FPUs</P>
+                    <P>— Annex 4 selection criteria requirements and evidence requested</P>
+                    <P>Page 5, requirements 13, 14 and 15 have been updated to show building and
+                        corporate services are S6 and not S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ES">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Autoridad Europea de Seguridad Alimentaria (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Centro de atención integrado y apoyo para procesos informáticos, logísticos y
+                        empresariales</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>El objetivo de la presente licitación es identificar a un contratista que
+                        tenga la capacidad de prestar los servicios descritos en detalle en el anexo
+                        3a («Descripción del servicio de las especificaciones técnicas»), prestados
+                        a través de un punto de contacto único para garantizar una experiencia
+                        completa a los usuarios internos de la EFSA y, a través de servicios de
+                        consultoría, contribuir activamente a la aplicación de la estrategia y la
+                        hoja de ruta de la EFSA en materia de informática.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Criterios de adjudicación</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Criterios siguientes</P>
+                            <P>Criterio de coste — nombre: criterios de adjudicación relativos a la
+                                calidad/ponderación: 70</P>
+                            <P>Criterio de coste — nombre: criterios de adjudicación relativos al
+                                precio/ponderación: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Criterios siguientes</P>
+                            <P>Criterios de calidad — nombre: calidad/ponderación: 70</P>
+                            <P>Precio/ponderación: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Los siguientes documentos han sido actualizados con control de cambios y
+                        publicados en «eTendering» para ilustrar lo siguiente:</P>
+                    <P>— Anexo 3e, indicadores clave de rendimiento y acuerdo de nivel de
+                        servicio</P>
+                    <P>En la página 14, el ejemplo para INC01a debería leer 7*20 = 140 FPU y no 7*50
+                        = 350 FPU</P>
+                    <P>En la página 19, el ejemplo en el apartado 4.4 debería leer 3*5 = 15 FPU y no
+                        3*50 = 15 FPU</P>
+                    <P>— Anexo 4, requisitos para los criterios de selección y pruebas
+                        solicitadas</P>
+                    <P>En la página 5, los requisitos 13, 14 y 15 han sido actualizados para indicar
+                        que los servicios corporativos y de edificios son S6 y no S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FI">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Euroopan elintarviketurvallisuusviranomainen (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integroitu palvelupiste ja tuki tietotekniikkaa, logistiikkaa ja
+                        liiketoimintaprosesseja varten</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Tämän tarjouspyynnön tavoitteena on löytää sopimusosapuoli, jolla on
+                        valmiudet toimittaa liitteessä 3a (Tekniset eritelmät – palvelujen kuvaus)
+                        yksityiskohtaisesti kuvatut palvelut. Palvelut toimitetaan yhden
+                        yhteyspisteen (Single Point of Contact – SPOC) välityksellä, jotta voidaan
+                        varmistaa kokonaisvaltainen kokemus EFSAn sisäisille käyttäjille ja jotta
+                        voidaan konsultointipalvelujen avulla aktiivisesti parantaa EFSAn
+                        tietoteknisen strategian ja etenemissuunnitelman toteuttamista.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Ratkaisuperusteet</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Perusteet alla:</P>
+                            <P>kustannusperuste – nimi: laatua koskevien ratkaisuperusteiden
+                                kokonaispainotus: 70</P>
+                            <P>kustannusperuste – nimi: hintaa koskevien ratkaisuperusteiden
+                                kokonaispainotus: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Perusteet alla:</P>
+                            <P>laatuperuste – nimi: laadun painotus: 70</P>
+                            <P>hinnan painotus: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Seuraavat asiakirjat on päivitetty muutosten seurannassa ja julkaistu
+                        verkkotarjousjärjestelmässä seuraavien seikkojen selventämiseksi:</P>
+                    <P>— liite 3e KPI-mittarit ja palvelutasosopimus</P>
+                    <P>sivu 14, esimerkki INC01a pitää olla 7*20 = 140 FPU:ta eikä 7*50 = 350
+                        FPU:ta</P>
+                    <P>sivu 19, esimerkki kohdassa 4.4 pitää olla 3*5 = 15 FPU:ta eikä 3*50 = 15
+                        FPU:ta</P>
+                    <P>— liitteen 4 valintaperustevaatimukset ja edellytetyt näytöt</P>
+                    <P>sivu 5, vaatimukset 13, 14 ja 15 on päivitetty siten, että kiinteistö- ja
+                        yrityspalvelut ovat S6 eikä S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="FR">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Autorité européenne de sécurité des aliments (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Service Desk intégré et support pour l'informatique, la logistique et les
+                        processus d'affaires</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>L’objectif du présent appel d’offres est d’identifier un contractant en
+                        mesure de fournir les services décrits en détail dans l’annexe 3a
+                        («description des spécifications techniques»), fournis à travers un point de
+                        contact unique (SPOC) afin d’optimiser l’expérience des utilisateurs
+                        internes de l’EFSA de bout en bout, à travers des services de conseils
+                        contribuant activement à la mise en œuvre de la stratégie informatique et de
+                        la feuille de route de l’EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Critères d’attribution</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Critères ci-dessous</P>
+                            <P>Critère de coût - nom: critères d'attribution
+                                qualitatifs/pondération: 70</P>
+                            <P>Critère de coût - nom: critères d'attribution liés au
+                                prix/pondération: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Critères ci-dessous</P>
+                            <P>Critère de qualité — nom : qualité/pondération: 70</P>
+                            <P>Prix — Pondération : 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Les documents suivants ont été mis à jour avec suivi de modifications et
+                        publiés sur eTendering pour illustrer ce qui suit:</P>
+                    <P>— Annexe 3e: KPI et SLA</P>
+                    <P>Page 14, exemple, pour INC01a, lire 7*20 = 140 FPU et non 7*50 = 350 FPU</P>
+                    <P>Page 19, exemple dans la section 4.4, lire 3*5 = 15 FPU et non 3*50 = 15
+                        FPU</P>
+                    <P>— Annexe 4: exigences relatives aux critères de sélection et preuves
+                        requise</P>
+                    <P>Page 5, les exigences 13, 14 et 15 ont été mises à jour pour montrer que les
+                        services de construction et d’entreprises sont S6 et non S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="EL">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Ολοκληρωμένο Γραφείο Εξυπηρέτησης και Υποστήριξη για διαδικασίες
+                        πληροφορικής, διαδικασίες διαχείρισης της διακίνησης εµπορευµάτων και
+                        επιχειρηματικές διαδικασίες</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Στόχος αυτής της πρόσκλησης υποβολής προσφορών είναι ο προσδιορισμός ενός
+                        αναδόχου ο οποίος θα έχει τη δυνατότητα να παρέχει τις υπηρεσίες που
+                        περιγράφονται στο Παράρτημα 3α («Περιγραφή υπηρεσιών τεχνικών
+                        προδιαγραφών»), οι οποίες εκτελούνται μέσω ενός ενιαίου κέντρου εξυπηρέτησης
+                        (SPOC - Single Point of Contact), προκειμένου να διασφαλιστεί μια
+                        ολοκληρωμένη εμπειρία για τους εσωτερικούς χρήστες της EFSA, και μέσω
+                        συμβουλευτικών υπηρεσιών, που συμβάλλουν ενεργά στην υλοποίηση της
+                        στρατηγικής ΤΠ και του χάρτη πορείας του EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Κριτήρια ανάθεσης</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Κάτωθι κριτήρια</P>
+                            <P>Κριτήριο κόστους - κριτήρια ανάθεση όσον αφορά την ποιότητα/στάθμιση:
+                                70</P>
+                            <P>Κριτήριο κόστους - ονομασία: κριτήρια ανάθεσης όσον αφορά την
+                                τιμή/στάθμιση: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Κάτωθι κριτήρια</P>
+                            <P>Κριτήριο ποιότητας — όνομα: ποιότητα/στάθμιση: 70</P>
+                            <P>Τιμή — Στάθμιση: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Τα ακόλουθα έγγραφα έχουν επικαιροποιηθεί με παρακολούθηση αλλαγών και έχουν
+                        δημοσιευθεί στο eTendering προκειμένου να διευκρινίσουν τα ακόλουθα:</P>
+                    <P>— Παράρτημα 3ε για κύριους δείκτες επιδόσεων (KPI) και SLA (Συμφωνία επιπέδου
+                        εξυπηρέτησης)</P>
+                    <P>Σελίδα 14,το παράδειγμα για το INC01a θα έπρεπε να διαβάζεται 7*20 = 140 FPUs
+                        και όχι 7*50 = 350 FPUs</P>
+                    <P>Σελίδα 19, το παράδειγμα στο τμήμα 4.4 θα έπρεπε να διαβάζεται 3*5 = 15 FPUs
+                        και όχι 3*50 = 15 FPUs</P>
+                    <P>— Απαιτήσεις για τα κριτήρια επιλογής του Παραρτήματος 4 και αιτούμενα
+                        αποδεικτικά στοιχεία</P>
+                    <P>Σελίδα 5, οι απαιτήσεις 13, 14 και 15 έχουν ενημερωθεί προκειμένου να δείξουν
+                        ότι οι υπηρεσίες κτιρίων και οι εταιρικές υπηρεσίες είναι S6 και όχι S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="IT">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Autorità europea per la sicurezza alimentare (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Sportello di assistenza integrato e supporto per processi informatici,
+                        logistici e aziendali</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>L’obiettivo del presente bando di gara consiste nell’identificazione di un
+                        contraente in grado di prestare i servizi descritti in dettaglio
+                        all’Allegato 3a (‘Capitolato tecnico descrizione dei servizi’), consegnati
+                        attraverso un singolo punto di contatto, allo scopo di garantire
+                        un'esperienza end-to-end agli utenti interni dell'EFSA e, attraverso servizi
+                        di consulenza, contribuire attivamente all'attuazione della strategia
+                        informatica e della tabella di marcia dell'EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Criteri di aggiudicazione</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Criteri seguenti</P>
+                            <P>Criterio di costo — nome: criteri di aggiudicazione relativi alla
+                                qualità/ponderazione: 70</P>
+                            <P>Criterio di costo — nome: criteri di aggiudicazione relativi al
+                                prezzo/ponderazione: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Criteri seguenti</P>
+                            <P>Criterio di qualità — Nome: qualità/ponderazione: 70</P>
+                            <P>Prezzo — Ponderazione: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>I seguenti documenti sono stati aggiornati con controllo delle modifiche e
+                        pubblicati in eTendering per illustrare quanto segue:</P>
+                    <P>— Allegato 3e KPI e SLA</P>
+                    <P>Pagina 14, l’esempio per INCO01a deve leggersi 7*20 = 140 FPUs e non 7*50 =
+                        350 FPUs</P>
+                    <P>Pagina 19, l’esempio alla sezione 4.4 deve leggersi 3*5 = 15 FPUs e non 3*50
+                        = 15 FPUs</P>
+                    <P>— Allegato 4 requisiti dei criteri di selezione ed evidenze richieste</P>
+                    <P>Pagina 5, i requisiti 13, 14 e 15 sono stati aggiornati per mostrare i
+                        servizi aziendali e di edilizia che sono S6 e non S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="NL">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europese Autoriteit voor voedselveiligheid (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Geïntegreerde servicedesk en ondersteuning voor IT-, logistieke en
+                        bedrijfsprocessen.</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>De doelstelling van deze oproep tot inschrijving is het identificeren van een
+                        contractant die in staat is om de diensten te verlenen die in detail zijn
+                        beschreven in bijlage 3a („Beschrijving van de technische specificaties van
+                        de diensten”), die worden verleend via 1 enkel contactpunt (SPOC) om te
+                        zorgen voor eind-tot-eindervaring voor de interne gebruikers van de EFSA en,
+                        via adviesdiensten, actief bij te dragen aan de tenuitvoerlegging van de
+                        IT-strategie en het stappenplan van de EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Gunningscriteria</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Onderstaande criteria:</P>
+                            <P>Kostencriterium — naam: gunningscriteria inzake kwaliteit/weging:
+                                70.</P>
+                            <P>Kostprijscriterium — naam: gunningscriteria met betrekking tot de
+                                prijs/weging: 30.</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Onderstaande criteria:</P>
+                            <P>Kwaliteitscriterium — naam: kwaliteit/weging: 70.</P>
+                            <P>Prijs — weging: 30.</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>De volgende documenten hebben een bijgewerkte geschiedenis van wijzigingen en
+                        zijn bekendgemaakt op eTendering, ter illustratie:</P>
+                    <P>— bijlage 3e KPI's en overeenkomsten inzake het dienstverleningsniveau:</P>
+                    <P>bladzijde 14, bij het voorbeeld voor INC01a moet 7*20 = 140 FPU's staan en
+                        niet 7*50 = 350 FPU's;</P>
+                    <P>bladzijde 19, in het voorbeeld in sectie 4.4 moet 3*5 = 15 FPU‘s staan en
+                        niet 3*50 = 15 FPU's.</P>
+                    <P>— bijlage 4 vereisten met betrekking tot de selectiecriteria en vereiste
+                        bewijsstukken:</P>
+                    <P>bladzijde 5, vereisten 13, 14 en 15 zijn bijgewerkt om gebouwen en
+                        bedrijfsdiensten als S6 te tonen en niet als S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PT">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Autoridade Europeia para a Segurança dos Alimentos
+                        (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Serviço de assistência integrado e apoio para TI, logística e processos de
+                        negócio</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>O objetivo do presente concurso é identificar um contratante com capacidade
+                        para prestar os serviços descritos detalhadamente no anexo 3a
+                        («Especificações técnicas - descrição do serviço»), entregues através de um
+                        ponto único de contacto, para garantir uma experiência completa aos
+                        utilizadores internos da EFSA e, através de serviços de consultoria,
+                        contribuindo ativamente para a implementação da estratégia e do roteiro de
+                        TI da EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Critérios de adjudicação</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Critérios abaixo</P>
+                            <P>Critério de custo — nome: critérios de adjudicação relativos à
+                                qualidade/ponderação: 70</P>
+                            <P>Critério de custo — nome: critérios de adjudicação relativos ao
+                                preço/ponderação: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Critérios abaixo</P>
+                            <P>Critério de qualidade — nome: qualidade/ponderação: 70</P>
+                            <P>Preço — ponderação: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Os seguintes documentos foram atualizados nas alterações de faixa e
+                        publicados no «e-Tendering» para ilustrar o seguinte:</P>
+                    <P>— Anexo 3e KPI e SLA</P>
+                    <P>Na página 14, o exemplo para INC01a deve-se ler 7*20 = 140 FPUs em vez de
+                        7*50 = 350 FPUs</P>
+                    <P>Na página 19, o exemplo na secção 4.4 deve-se ler 3*5 = 15 FPUs em vez de
+                        3*50 = 15 FPUs</P>
+                    <P>— Anexo 4 critérios de seleção requisitos e comprovativos solicitados</P>
+                    <P>Na página 5, os requisitos 13, 14 e 15 foram atualizados para demonstrar que
+                        os serviços empresariais e de construção são S6 e não S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SV">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europeiska myndigheten för livsmedelssäkerhet
+                        (Efsa)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrerad stödtjänst och support för processer inom it, logistik och
+                        affärsverksamhet</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Syftet med denna anbudsinfordran är att hitta en uppdragstagare som har
+                        förmåga att tillhandahålla de tjänster, som ingående beskrivs i bilaga 3a
+                        (Beskrivning av tekniska tjänstespecifikationer, ”Technical specifications
+                        service description”) och som ska levereras i form av en enda kontaktpunkt
+                        (Single Point of Contact – SPOC) för att säkerställa en genomgående
+                        upplevelse för Efsas interna användare samt, via konsulterande tjänster,
+                        aktivt bidra till implementeringen av Efsas it-strategi och -färdplan.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Tilldelningskriterier</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Kriterier nedan</P>
+                            <P>Kostnadskriterium - namn: viktning för tilldelningskriterier avseende
+                                kvalitet 70</P>
+                            <P>Kostnadskriterium - namn: viktning för tilldelningskriterier avseende
+                                pris 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Kriterier nedan</P>
+                            <P>Kvalitetskriterium - namn: kvalitet/viktning 70</P>
+                            <P>Pris – viktning: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Följande dokument har uppdaterats i termer av spårändringar och publicerats i
+                        e-upphandling för att illustrera följande:</P>
+                    <P>— Bilaga 3e nyckeluftörandeindikator och servicenivåavtal</P>
+                    <P>Sida 14, exempel för INC01a ska vara 7*20 = 140 flyttalsprocessorer och inte
+                        7*50 = 350 flyttalsprocessorer</P>
+                    <P>Sida 19, exempel för avsnitt 4.4 ska vara 4*3 = 15 flyttalsprocessorer och
+                        inte 3*50 = 15 flyttalsprocessorer</P>
+                    <P>— Bilaga 4 krav för uttagningskriterier och begärt bevis</P>
+                    <P>Sida 5, krav 13, 14 och 15 har uppdaterats för att visa att fastighets- och
+                        företagstjänster är S6 och inte S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="CS">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Evropský úřad pro bezpečnost potravin (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrovaná uživatelská podpora a podpora informačních, logistických a
+                        obchodních procesů</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Cílem této výzvy k podání nabídek je určit zhotovitele schopného poskytnout
+                        služby popsané podrobně v příloze 3a („Technické specifikace, popis
+                        služeb“), dodané prostřednictvím jednotného kontaktního místa (SPOC) s cílem
+                        zajistit interním uživatelům EFSA koncovou zkušenost, a dále prostřednictvím
+                        poradenských služeb aktivně přispět k provádění strategie a realizačního
+                        plánu IT pro EFSA..</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Kritéria pro zadání zakázky</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Níže uvedená kritéria</P>
+                            <P>Kritérium ceny – název: kritérium pro zadání týkající se
+                                kvality/váha: 70</P>
+                            <P>Kritérium ceny – název: kritérium pro zadání týkající se ceny/váha:
+                                30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Níže uvedená kritéria</P>
+                            <P>Kritérium kvality – název: kvalita/váha: 70</P>
+                            <P>Cena – váha: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Následující dokumenty byly aktualizovány v revizi změn a publikovány v
+                        elektronickém zadávacím řízení (eTendering), aby ilustrovaly
+                        následující:</P>
+                    <P>— příloha 3e klíčové ukazatele výkonnosti (KPI) a dohoda o úrovni služeb
+                        (SLA)</P>
+                    <P>strana 14, příklad INC01a by měl být 7*20 = 140 FPU a nikoli 7*50 = 350
+                        FPU</P>
+                    <P>strana 19, příklad v oddíle 4.4 by měl být 3*5 = 15 FPU a nikoli 3*50 = 15
+                        FPU</P>
+                    <P>— příloha 4 požadavky na kritéria pro výběr a požadované doklady</P>
+                    <P>strana 5, požadavky 13, 14 a 15 byly aktualizovány, aby odrážely budovy a
+                        podnikové služby jsou S6 a nikoli S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="ET">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Euroopa Toiduohutusamet (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integreeritud toekeskus ja tugi infotehnoloogia (IT), logistiliste ja
+                        äriprotsesside jaoks</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Kõnealuse hankemenetluse eesmärk on tuvastada töövõtja, kes on võimeline
+                        osutama lisas 3a (teenuse tehniline kirjeldus) täpsemalt kirjeldatud
+                        teenuseid, mida osutatakse EFSA sisekasutajatele ühtse kontaktpunkti kaudu,
+                        et tagada algusest lõpuni kasutajakogemus, ja mis panustavad
+                        nõustamisteenuste kaudu aktiivselt EFSA IT-strateegia ja tegevuskava
+                        rakendamisse.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Lepingu sõlmimise kriteeriumid</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Alltoodud kriteeriumid</P>
+                            <P>Kulukriteerium – nimi: lepingu sõlmimise kvaliteedikriteeriumid,
+                                osakaal 70</P>
+                            <P>Kulukriteerium – nimi: lepingu sõlmimise hinnakriteeriumid, osakaal
+                                30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Alltoodud kriteeriumid</P>
+                            <P>kvaliteedikriteerium – nimi: kvaliteet, osakaal 70</P>
+                            <P>Hind – osakaal 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Järgmised dokumendid on uuendatud muudatuste jälgimise funktsiooni kasutades
+                        ja avaldatud e-hangete platvormil ning muudatuste sisu on järgmine:</P>
+                    <P>– lisa 3e KPId ja SLA</P>
+                    <P>Lk 14, näite INC01a puhul tuleb lugeda 7*20 = 140 FPUd ja mitte 7*50 = 350
+                        FPUd</P>
+                    <P>Lk 19, punktis 4.4 toodud näite puhul tuleb lugeda 3*5 = 15 FPUd ja mitte
+                        3*50 = 15 FPUd</P>
+                    <P>– lisa 4 valikukriteeriumide nõuded ja nõutav tõendusmaterjal</P>
+                    <P>Lk 5, uuendatud on nõuded 13, 14 ja 15, et näidata, et hoonete ja asutuse
+                        teenused on S6 ja mitte S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HU">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Európai Élelmiszerbiztonsági Hatóság (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrált ügyfélszolgálat és támogatás IT-, logisztikai és üzleti
+                        folyamatokhoz</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>A jelen ajánlati felhívás célkitűzése azon nyertes ajánlattevő kiválasztása,
+                        aki képes a 3a mellékletben („Műszaki dokumentáció – A szolgáltatás
+                        leírása”) részletesen ismertetett szolgáltatások egyablakos ügyintézési
+                        ponton keresztül történő teljes körű biztosítására az EFSA belső
+                        felhasználói számára, valamint tanácsadási szolgáltatások által aktívan
+                        hozzájárulni az EFSA IT-stratégiájának és -ütemtervének
+                        megvalósításához.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Odaítélési kritériumok</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>A kritériumokat lásd lentebb</P>
+                            <P>Az árra vonatkozó kritérium — elnevezés: a minőségre vonatkozó
+                                odaítélési kritériumok/súlyszám: 70</P>
+                            <P>Az árra vonatkozó kritérium — elnevezés: az árra vonatkozó odaítélési
+                                kritériumok/súlyszám: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>A kritériumokat lásd lentebb</P>
+                            <P>Minőségi kritérium – elnevezés: minőség/súlyszám: 70</P>
+                            <P>Ár – súlyszám: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>A következő dokumentumokat frissítették a módosításkövetőben és tették közzé
+                        az eTendering weboldalon, a következők szemléltetésére:</P>
+                    <P>— 3e. melléklet KPI és szolgáltatási szintre vonatkozó megállapodás</P>
+                    <P>14. oldal, példa az INC01a-ra helyesen: 7*20 = 140 FPU, a következő helyett:
+                        7*50 = 350 FPU</P>
+                    <P>19. oldal, példa 4.4 szakaszban helyesen: 3*5 = 15 FPU, a következő helyett:
+                        3*50 = 15 FPU</P>
+                    <P>— 4. melléklet, kiválasztási kritériumokra vonatkozó követelmények és bekért
+                        bizonyítékok</P>
+                    <P>5. oldal, a 13., 14. és 15 követelményt frissítették: az épületre és
+                        vállalati szolgáltatásokra vonatkozó jelölés S7-ről S6-ra módosult.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LT">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europos maisto saugos tarnyba (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integruotas pagalbos centras ir parama IT, logistikos ir verslo procesams</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Šio kvietimo dalyvauti konkurse tikslas – rasti rangovą, kuris sugebėtų
+                        teikti 3a priede („Techninių specifikacijų paslaugų aprašymas“) išsamiai
+                        aprašytas paslaugas, kurios būtų teikiamos vieno langelio principu, siekiant
+                        užtikrinti EFSA vidaus vartotojų tiesioginę patirtį ir teikiant
+                        konsultacines paslaugas, aktyviai prisidedant prie EFSA IT strategijos ir
+                        veiksmų gairių įgyvendinimo.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Sutarties skyrimo kriterijai</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Kriterijai:</P>
+                            <P>Kainos kriterijus: pavadinimas: kokybės skyrimo kriterijai / bendras
+                                įvertinimas: 70</P>
+                            <P>Kainos kriterijus: pavadinimas: kainos skyrimo kriterijai / bendras
+                                įvertinimas: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Kriterijai:</P>
+                            <P>Kokybės kriterijus – pavadinimas: kokybė / bendras įvertinimas:
+                                70</P>
+                            <P>Kaina – lyginamoji vertė: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Šie dokumentai buvo atnaujinti su matomais pakeitimais ir paskelbti
+                        eTendering svetainėje, kad iliustruotų:</P>
+                    <P>— 3e priedo PVRR ir susitarimą dėl paslaugų lygio</P>
+                    <P>14 puslapis, INC01a pavyzdys turėtų būti: 7*20 = 140 FPU, o ne 7*50 = 350
+                        FPU</P>
+                    <P>19 puslapis, 4.4 dalyje pateikiamas pavyzdys turėtų būti: 3*5 = 15 FPU, o ne
+                        3*50 = 15 FPU</P>
+                    <P>— prašomi 4 priedo atrankos kriterijų reikalavimai ir įrodymai</P>
+                    <P>5 puslapis, 13, 14 ir 15 reikalavimai buvo atnaujinti, kad parodytų, jog
+                        statybos ir įmonės paslaugos yra S6, o ne S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="LV">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Eiropas Pārtikas nekaitīguma iestāde (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrēts atbalsta dienests un atbalsts IT, loģistikas un darbības
+                        procesiem</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Šī uzaicinājuma uz konkursu mērķis ir atrast darbuzņēmēju, kurš spētu sniegt
+                        3a. pielikumā (“Tehniskās specifikācijas – pakalpojumu apraksts”) minētos
+                        pakalpojumus, izmantojot vienotu kontaktpunktu (SPOC), lai EFSA iekšējiem
+                        lietotājiem nodrošinātu pilnīgu (“end-to-end”) pieredzi, un konsultāciju
+                        pakalpojumu veidā aktīvi veicinātu EFSA IT stratēģijas un rīcības plāna
+                        īstenošanu.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Līguma slēgšanas tiesību piešķiršanas kritēriji</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Zemāk minētie kritēriji</P>
+                            <P>Izmaksu kritērijs – Nosaukums: Ar kvalitāti saistītie piešķiršanas
+                                kritēriji / Svērums: 70</P>
+                            <P>Izmaksu kritērijs – Nosaukums: Ar cenu saistītie piešķiršanas
+                                kritēriji / Svērums: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Zemāk minētie kritēriji</P>
+                            <P>Kvalitātes kritērijs – nosaukums: kvalitāte/svērums: 70</P>
+                            <P>Cena – svērums: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Turpmāk minētie dokumenti ir atjaunināti ar reģistrētām izmaiņām un publicēti
+                        vietnē “eTendering”, lai norādītu turpmāko.</P>
+                    <P>— Pielikums Nr. 3e par KPI un SLA</P>
+                    <P>14. lpp. tekstā par INC01a piemēru ir jābūt 7*20 = 140 FPUs (nevis 7*50 =
+                        350 FPUs).</P>
+                    <P>19. lpp., 4.4. iedaļas piemēra tekstā ir jābūt 3*5 = 15 FPUs (nevis 3*50 =
+                        15 FPUs).</P>
+                    <P>— Pielikums Nr. 4 par atlases kritēriju prasībām un pieprasītajiem
+                        pierādījumiem</P>
+                    <P>5. lpp. ir precizēta 13., 14. un 15. prasība, norādot, ka ēku un korporatīvie
+                        pakalpojumi ir S6 (nevis S7).</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="MT">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>L-Awtorità Ewropea dwar is-Sigurtà fl-Ikel (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Post fejn Jingħata Servizz u Appoġġ Integrat għal Proċessi tat-TI, Loġistiċi
+                        u tan-Negozju</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>L-għan ta' din is-sejħa ta' offerti huwa li jidentifika kuntrattur li għandu
+                        l-ħila jipprovdi s-servizzi deskritti fid-dettall fl-Anness 3a
+                        ("Deskrizzjoni tas-servizz ta' speċifikazzjonijiet tekniċi"), imwassla minn
+                        punt uniku ta' kuntatt (SPOC) sabiex jiżgura esperjenza mill-bidu sal-aħħar
+                        tal-utenti interni tal-EFSA u, permezz ta' servizzi ta' konsulenza, li
+                        jikkontribwixxu fl-implimentazzjoni tal-istrateġija tat-TI u pjan ta'
+                        tħejjija tal-EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Il-kriterji tal-għoti</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Il-kriterji t'hawn taħt</P>
+                            <P>Il-kriterju tal-ispiża — l-isem: il-kriterji tal-għoti bbażati fuq
+                                il-kwalità/il-punteġġ: 70</P>
+                            <P>Il-kriterju tal-ispiża — l-isem: il-kriterji tal-għoti bbażati fuq
+                                il-prezz/il-punteġġ: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Il-kriterji t'hawn taħt</P>
+                            <P>Il-kriterju tal-kwalità — l-isem: il-kwalità/il-punteġġ: 70</P>
+                            <P>Il-prezz — il-punteġġ: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Id-dokumenti li ġejjin ġew aġġornati bi track changes u ppubblikati fuq
+                        eTendering biex jiġi spjegat li ġej:</P>
+                    <P>— l-Anness 3e KPIs u SLA</P>
+                    <P>Il-paġna 14, l-eżempju għal INC01a għandu jgħid 7*20 = 140 FPUs u mhux 7*50 =
+                        350 FPUs</P>
+                    <P>Il-paġna 19, l-eżempju fit-taqsima 4.4 għandu jgħid 3*5 = 15 FPUs u mhux 3*50
+                        = 15 FPUs</P>
+                    <P>— l-Anness 4 ir-rekwiżiti tal-kriterji tal-għażla u l-prova mitluba</P>
+                    <P>Il-paġna 5, ir-rekwiżiti 13, 14 u 15 ġew aġġornati biex jintwera li
+                        s-servizzi ta' bini u korporattivi huma S6 u mhux S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="PL">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europejski Urząd ds. Bezpieczeństwa Żywności (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Zintegrowany Punkt wsparcia serwisowego (Service Desk) i wsparcie dla
+                        procesów informatycznych, logistycznych i biznesowych</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Celem niniejszego zaproszenia do składania ofert jest wybór wykonawcy
+                        mającego zdolność do zapewnienia usług opisanych szczegółowo w załączniku 3a
+                        („Specyfikacja techniczna usługi”), świadczonych za pośrednictwem
+                        pojedynczego punktu kontaktowego w celu zapewnienia obsługi wewnętrznych
+                        użytkowników końcowych w EFSA oraz poprzez usługi doradcze, aktywnego
+                        przyczynienia się do wdrażania strategii IT i planu działania EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Kryteria udzielenia zamówienia</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Poniższe kryteria</P>
+                            <P>Kryterium dotyczące kosztów — nazwa: kryteria udzielenia zamówienia
+                                dotyczące jakości/waga: 70</P>
+                            <P>Kryterium dotyczące kosztów — nazwa: kryteria udzielenia zamówienia
+                                dotyczące ceny/waga: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Poniższe kryteria</P>
+                            <P>Kryterium jakościowe — nazwa: jakość/waga: 70</P>
+                            <P>Cena — waga: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Następujące dokumenty zostały zaktualizowane w trybie śledzenia zmian i
+                        opublikowane w witrynie eTendering, aby zilustrować następujące:</P>
+                    <P>— Załącznik 3: Kluczowy wskaźnik wydajności i umowa o gwarantowanym poziomie
+                        usług</P>
+                    <P>Strona 14, przykład dla INC01a, powinno być 7*20 = 140 koprocesorów
+                        numerycznych (FPU) zamiast 7*50 = 350 FPU</P>
+                    <P>Strona 19, przykład w pkt 4.4, powinno być 3*5 = 15 FPU zamiast 3*50 = 15
+                        FPU</P>
+                    <P>— Załącznik 4: Wymagania w zakresie kryteriów wyboru i wymagane dowody</P>
+                    <P>Strona 5, wymagania 13, 14 i 15 zostały zaktualizowane tak, aby wykazać, że
+                        usługi budowlane i korporacyjne to S6, a nie S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SK">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Európsky úrad pre bezpečnosť potravín (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrovaná servisná podpora a podpora IT, logistických a obchodných
+                        procesov</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Cieľom tejto výzvy na predkladanie ponúk je identifikovať dodávateľa, ktorý
+                        je schopný poskytovať služby podrobne opísané v prílohe 3a („Opis služby
+                        technických špecifikácií“), dodávané prostredníctvom jednotného kontaktného
+                        miesta (Single Point of Contact – SPOC), aby sa zabezpečila od začiatku až
+                        do konca skúsenosť pre interných používateľov EFSA, a prostredníctvom
+                        poradenských služieb aktívne prispievať k vykonávaniu IT stratégie a plánu
+                        realizácie úradu EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Kritériá vyhodnotenia ponúk</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Kritériá nižšie</P>
+                            <P>Cenové kritérium – názov: kritériá vyhodnotenia ponuky z hľadiska
+                                kvality/váhovanie: 70</P>
+                            <P>Cenové kritérium – názov: kritériá vyhodnotenia ponuky z hľadiska
+                                ceny/váhovanie: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Kritériá nižšie</P>
+                            <P>Kritérium kvality – názov: kvalita/váhovanie: 70</P>
+                            <P>Cena – váhovanie: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Nasledujúce dokumenty boli aktualizované v rámci sledovania zmien („Track
+                        changes“) a uverejnené v elektronickom predkladaní ponúk eTendering, aby sa
+                        ilustrovali tieto skutočnosti:</P>
+                    <P>— kľúčové ukazovatele výkonu (KPI) a úroveň poskytovaných služieb (SLA) v
+                        rámci prílohy 3e</P>
+                    <P>strana 14, príklad pre INC01a má vyzerať takto: 7 * 20 = 140 FPU, a nie 7 *
+                        50 = 350 FPU</P>
+                    <P>strana 19, príklad v oddiele 4.4 má vyzerať takto: 3 * 5 = 15 FPU, a nie 3 *
+                        50 = 15 FPU</P>
+                    <P>— požiadavky kritérií výberu a požadované dôkazy uvedené v prílohe 4</P>
+                    <P>strana 5, požiadavky 13, 14 a 15 boli aktualizované tak, aby ukazovali, že
+                        budovy a podnikové služby sú S6, a nie S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="SL">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Evropska agencija za varnost hrane (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrirani center za pomoč uporabnikom ter podpora za IT, logistične in
+                        poslovne procese</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Cilj tega javnega razpisa je izbrati izvajalca, ki bo sposoben zagotavljati
+                        storitve, podrobneje opisane v Prilogi 3a (Opis tehničnih specifikacij
+                        storitev), ki se bodo izvajale prek enotne kontaktne točke za zagotovitev
+                        celovite uporabniške izkušnje za notranje uporabnike EFSA s svetovalnimi
+                        storitvami, ki bodo dejavno prispevale k izvajanju informacijske strategije
+                        in načrta EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Merila za oddajo</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Spodnja merila</P>
+                            <P>Merilo stroškov – ime: merila kakovosti za oddajo/ponderiranje:
+                                70</P>
+                            <P>Merilo stroškov – ime: merila cene za oddajo/ponderiranje: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Spodnja merila</P>
+                            <P>Merilo kakovosti – ime: kakovost/ponderiranje: 70</P>
+                            <P>Cena – ponderiranje: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Naslednji dokumenti so bili posodobljeni, z označenimi popravki, in
+                        objavljeni na portalu eTendering ter navajajo naslednje:</P>
+                    <P>— Priloga 3e – ključni kazalniki uspešnosti in sporazum o ravni storitev</P>
+                    <P>Stran 14, primer INC01a se glasi 7*20 = 140 FPU in ne 7*50 = 350 FPU</P>
+                    <P>Stran 19, primer iz oddelka 4.4 se glasi 3*5 = 15 FPU in ne 3*50 = 15 FPU</P>
+                    <P>— Priloga 4 – zahteve v zvezi z merili za izbor in zahtevana dokazila</P>
+                    <P>Stran 5, zahteve 13, 14 in 15 so posodobljene; stavbne in korporativne
+                        storitve so zdaj navedene pod S6 in ne S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="GA">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>An tÚdarás Eorpach um Shábháilteacht Bia (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Deasc seirbhíse chomhtháite agus tacaíocht do phróisis TF, lóistíochta agus
+                        gnó</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Is é cuspóir an ghlao seo ar thairiscintí conraitheoir a shainaithint a
+                        bhfuil sé de chumas aige na seirbhísí a thuairiscítear go mion in
+                        Iarscríbhinn 3a (‘Tuairisc seirbhíse sonraíochtaí teicniúla’) a sholáthar, a
+                        sheachadtar trí Phointe Teagmhála Aonair (PTA) d’fhonn eispéireas ceann go
+                        ceann a chinntiú d'úsáideoirí inmheánacha EFSA agus, trí sheirbhísí
+                        comhairliúcháin, ach cur go gníomhach le cur i bhfeidhm straitéis agus
+                        threochlár TF EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Critéir dhámhachtana</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Critéir thíosluaite</P>
+                            <P>Critéar costais — ainm: critéir na dámhachtana um cháilíocht/ualú:
+                                70</P>
+                            <P>Critéar costais — ainm: critéir na dámhachtana um phraghas/ualú:
+                                30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Critéir thíosluaite</P>
+                            <P>Critéar cáilíochta — ainm: cáilíocht/ualú: 70</P>
+                            <P>Praghas — ualú: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Nuashonraíodh na doiciméid a leanas i rianaigh athruithe agus foilsíodh iad
+                        in eTendering chun na nithe a leanas a léiriú:</P>
+                    <P>— Iarscríbhinn 3e KPInna agus SLA</P>
+                    <P>Leathanach 14, mar shampla ar chóir INC01a a léamh mar 7*20 = 140 FPU agus ní
+                        mar 7*50 = 350 FPU</P>
+                    <P>Ba chóir leathanach 19, mar shampla i gcuid 4.4 a léamh mar 3 * 5 = 15 FPU
+                        agus ní mar 3 * 50 = 15 FPU</P>
+                    <P>— Ceanglais maidir le critéir roghnúcháin Iarscríbhinn 4 agus an fhianaise a
+                        iarrtar</P>
+                    <P>Leathanach 5, nuashonraíodh riachtanais 13, 14 agus 15 chun seirbhísí tógála
+                        agus seirbhísí corparáideacha a thaispeáint mar S6 agus ní mar S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="BG">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Европейски орган за безопасност на храните (ЕОБХ)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Интегриран помощен отдел и поддръжка за ИТ, логистични и бизнес процеси</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Целта на тази покана за участие в търг е да се открие изпълнител с възможност
+                        да предоставя услугите, описани подробно в приложение 3а („Технически
+                        спецификации - описание на услуги“), предоставяни чрез единно звено за
+                        контакт (SPoC), за да се осигури опит от крайна точка до крайна точка за
+                        вътрешните потребители на ЕОБХ и, чрез консултантски услуги активно да се
+                        допринесе за изпълнението на ИТ стратегия и пътна карта на ЕОБХ.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Критерии за възлагане</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Следните критерии</P>
+                            <P>Критерий за разходи — наименование: критерий на възлагане по
+                                отношение на качеството/тежест: 70</P>
+                            <P>Критерий за разходи — наименование: критерий на възлагане по
+                                отношение на цената/тежест: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Следните критерии</P>
+                            <P>Критерий за качество — наименование: качество/тежест: 70</P>
+                            <P>Цена — Тежест: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Следните документи бяха актуализирани с проследяване на промените и
+                        публикувани в eTendering, за да илюстрират следното:</P>
+                    <P>— Приложение 3 Ключови показатели за ефективност и Споразумение за ниво на
+                        услугата</P>
+                    <P>Стр. 14, пример за INC01a трябва да се чете като 7*20 = 140 FPUs, а не като
+                        7*50 = 350 FPUs</P>
+                    <P>Стр. 19, пример в раздел 4.4 трябва да се чете като 3*5 = 15 FPUs, а не като
+                        3*50 = 15 FPUs</P>
+                    <P>— Приложение 4 Изисквания за критериите за подбор и необходими
+                        доказателства</P>
+                    <P>Стр. 5, изисквания 13, 14 и 15 бяха актуализирани, за да посочат, че
+                        строителните и корпоративните услуги са S6, а не S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="RO">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Autoritatea Europeană pentru Siguranța Alimentară
+                        (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Servicii de asistență integrată și suport pentru procesele IT, logistice și
+                        de afaceri</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Obiectivul prezentei licitații este identificarea unui contractant care are
+                        capacitatea de a presta serviciile descrise în detaliu în Anexa 3a
+                        („Descrierea specificațiilor tehnice ale serviciilor”), livrate printr-un
+                        punct de contact unic (SPOC) pentru a asigura experiența de la un capăt la
+                        altul pentru utilizatorii interni ai EFSA și, prin servicii de consultanță,
+                        să contribuie activ la punerea în aplicare a strategiei și a foii de parcurs
+                        IT EFSA.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Criterii de atribuire</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Criteriile de mai jos</P>
+                            <P>Criteriul privind costul — denumirea: criteriile de atribuire legate
+                                de calitate/pondere: 70</P>
+                            <P>Criteriul privind costul — denumirea: criteriile de atribuire legate
+                                de preț/pondere: 30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Criteriile de mai jos</P>
+                            <P>Criteriul privind calitatea — Denumirea: calitatea/ponderea: 70</P>
+                            <P>Prețul— Ponderea: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Următoarele documente au fost actualizate cu urmărirea modificărilor și
+                        publicate pe eTendering pentru a prezenta următoarele:</P>
+                    <P>— Anexa 3 indicatorii cheie de performanță (KPI) și acordul privind nivelul
+                        serviciilor (SLA)</P>
+                    <P>Pagina 14, de exemplu pentru INC01a ar trebui să se citească 7 *20 = 140 FPU
+                        și nu 7 * 50 = 350 FPU</P>
+                    <P>Pagina 19, de exemplu în secțiunea 4.4 ar trebui să citească 3*5 = 15 FPU și
+                        nu 3 * 50 = 15 FPU</P>
+                    <P>— Anexa 4 cerințe privind criteriile de selecție și dovezile solicitate</P>
+                    <P>Pagina 5, cerințele 13, 14 și 15 au fost actualizate pentru a arăta că
+                        serviciile de construcții și corporative sunt S6 și nu S7.</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+        <F14_2014 CATEGORY="TRANSLATION" FORM="F14" LG="HR">
+            <LEGAL_BASIS VALUE="32018R1046"/>
+            <CONTRACTING_BODY>
+                <ADDRESS_CONTRACTING_BODY>
+                    <OFFICIALNAME>Europska agencija za sigurnost hrane (EFSA)</OFFICIALNAME>
+                    <ADDRESS>Via Carlo Magno 1A</ADDRESS>
+                    <TOWN>Parma</TOWN>
+                    <POSTAL_CODE>43126</POSTAL_CODE>
+                    <COUNTRY VALUE="IT"/>
+                    <E_MAIL>EFSAProcurement@efsa.europa.eu</E_MAIL>
+                    <n2016:NUTS CODE="ITH52"/>
+                    <URL_GENERAL>https://etendering.ted.europa.eu/cft/cft-display.html?cftId=5733</URL_GENERAL>
+                    <URL_BUYER>http://www.efsa.europa.eu/en/procurement/tenders.htm</URL_BUYER>
+                </ADDRESS_CONTRACTING_BODY>
+            </CONTRACTING_BODY>
+            <OBJECT_CONTRACT>
+                <TITLE>
+                    <P>Integrirana služba za podršku za informatičke, logističke i poslovne
+                        procese</P>
+                </TITLE>
+                <REFERENCE_NUMBER>OC/EFSA/CORSER/2019/05</REFERENCE_NUMBER>
+                <CPV_MAIN>
+                    <CPV_CODE CODE="72000000"/>
+                </CPV_MAIN>
+                <TYPE_CONTRACT CTYPE="SERVICES"/>
+                <SHORT_DESCR>
+                    <P>Cilj je poziva za nadmetanje identificirati izvoditelja koji ima mogućnost
+                        pružanja usluga detaljno opisanih u Prilogu 3a („Opis usluge tehničkih
+                        specifikacija“), dostavljenih putem jedinstvene službe(osobe) za kontakt
+                        (Single Point of Contact - SPOC) kako bi se osiguralo cjelokupno iskustvo za
+                        unutarnje korisnike EFSA-e i, putem savjetodavnih usluga, aktivno
+                        doprinoseći provedbi EFSA-ove IT strategije i plana.</P>
+                </SHORT_DESCR>
+            </OBJECT_CONTRACT>
+            <COMPLEMENTARY_INFO>
+                <DATE_DISPATCH_NOTICE>2019-12-10</DATE_DISPATCH_NOTICE>
+                <NOTICE_NUMBER_OJ>2019/S 228-558368</NOTICE_NUMBER_OJ>
+            </COMPLEMENTARY_INFO>
+            <CHANGES>
+                <CHANGE PUBLICATION="YES">
+                    <WHERE>
+                        <SECTION>II.2.5)</SECTION>
+                        <LABEL>Kriteriji za dodjelu</LABEL>
+                    </WHERE>
+                    <OLD_VALUE>
+                        <TEXT>
+                            <P>Kriteriji u nastavku</P>
+                            <P>Kriterij cijene — naziv: kriteriji kvalitete za odabir ponude/ponder:
+                                70</P>
+                            <P>Kriterij cijene — naziv: kriteriji cijene za odabir ponude/ponder:
+                                30</P>
+                        </TEXT>
+                    </OLD_VALUE>
+                    <NEW_VALUE>
+                        <TEXT>
+                            <P>Kriteriji u nastavku</P>
+                            <P>Kriterij kvalitete — naziv: kvaliteta/ponder: 70</P>
+                            <P>Cijena — ponder: 30</P>
+                        </TEXT>
+                    </NEW_VALUE>
+                </CHANGE>
+                <INFO_ADD>
+                    <P>Sljedeći su dokumenti ažurirani s praćenjem promjena i objavljeni su na
+                        e-nadmetanju kako bi ilustrirali sljedeće:</P>
+                    <P>— Prilog 3e KPI-ji i SLA</P>
+                    <P>Stranica 14, primjer za INC01a treba glasiti 7*20 = 140 FPU-eva, a ne 7*50 =
+                        350 FPU-eva</P>
+                    <P>Stranica 19, primjer u odjeljku 4.4 treba glasiti 3*5 = 15 FPU-eva, a ne 3*50
+                        = 15 FPU-eva</P>
+                    <P>— Prilog 4 zahtjevi kriterija za odabir i traženi dokazi</P>
+                    <P>Stranica 5, zahtjevi 13, 14 i 15 ažurirani su i prikazuju zgradu i
+                        korporativne usluge u S6, a ne S7</P>
+                </INFO_ADD>
+            </CHANGES>
+        </F14_2014>
+    </FORM_SECTION>
+</TED_EXPORT>
