@@ -80,6 +80,8 @@ class SimpleTest {
 			println(codedDataSection.refOjs)
 
 			println(translationSection)
+
+			println(formSection.contractNotices[0].contract.objectDescriptions[0].shortDescr)
 		}
 	}
 
