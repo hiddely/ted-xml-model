@@ -3303,6 +3303,7 @@
                 <CPV_MAIN>
                     <CPV_CODE CODE="71356200"/>
                     <CPV_SUPPLEMENTARY_CODE CODE="MA09"/>
+                    <CPV_SUPPLEMENTARY_CODE CODE="MA10"/>
                 </CPV_MAIN>
                 <TYPE_CONTRACT CTYPE="SERVICES"/>
                 <SHORT_DESCR>

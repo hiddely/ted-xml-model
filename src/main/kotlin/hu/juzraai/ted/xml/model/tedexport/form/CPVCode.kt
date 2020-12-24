@@ -2,6 +2,7 @@ package hu.juzraai.ted.xml.model.tedexport.form
 
 import org.simpleframework.xml.Attribute
 import org.simpleframework.xml.Element
+import org.simpleframework.xml.ElementList
 import org.simpleframework.xml.Root
 
 data class CPVCode(
@@ -14,6 +15,6 @@ data class CPVSet(
         @field:Element(name = "CPV_CODE", required = true)
         var code: CPVCode = CPVCode(),
 
-        @field:Element(name = "CPV_SUPPLEMENTARY_CODE", required = false)
-        var supplementary: CPVCode = CPVCode()
+        @field:ElementList(entry = "CPV_SUPPLEMENTARY_CODE", inline = true, required = false)
+        var supplementary: List<CPVCode> = mutableListOf()
 )
