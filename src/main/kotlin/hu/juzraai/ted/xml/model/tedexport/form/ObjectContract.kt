@@ -4,6 +4,7 @@ import hu.juzraai.ted.xml.model.tedexport.common.TextFtMultiLine
 import hu.juzraai.ted.xml.model.tedexport.common.TextFtSingleLine
 import org.simpleframework.xml.Element
 import org.simpleframework.xml.ElementList
+import org.simpleframework.xml.Path
 import org.simpleframework.xml.Root
 
 @Root(name = "OBJECT_CONTRACT", strict = false)
@@ -22,6 +23,9 @@ data class ObjectContract(
         var estimatedTotal: EstimatedTotal = EstimatedTotal(),
 
         @field:ElementList(inline = true, entry = "OBJECT_DESCR", required = false)
-        var objectDescriptions: List<ObjectDescription> = mutableListOf<ObjectDescription>()
+        var objectDescriptions: List<ObjectDescription> = mutableListOf<ObjectDescription>(),
+
+        @field:Element(name = "CPV_MAIN", required = false)
+        var cpvMain: CPVSet = CPVSet()
 
 )

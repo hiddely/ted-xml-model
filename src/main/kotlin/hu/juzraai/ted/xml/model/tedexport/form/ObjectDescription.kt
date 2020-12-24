@@ -3,6 +3,7 @@ package hu.juzraai.ted.xml.model.tedexport.form
 import hu.juzraai.ted.xml.model.tedexport.common.TextFtMultiLine
 import org.simpleframework.xml.Attribute
 import org.simpleframework.xml.Element
+import org.simpleframework.xml.ElementList
 import org.simpleframework.xml.Root
 
 @Root(name = "OBJECT_DESCR", strict = false)
@@ -18,8 +19,10 @@ data class ObjectDescription(
         var startDate: String = "",
 
         @field:Element(name = "DATE_END", required = false)
-        var endDate: String = ""
+        var endDate: String = "",
 
+        @field:ElementList(inline = true, entry = "CPV_ADDITIONAL", required = false)
+        var additionalCPVs: List<CPVSet> = mutableListOf<CPVSet>()
 
 ) {
         override fun toString(): String {

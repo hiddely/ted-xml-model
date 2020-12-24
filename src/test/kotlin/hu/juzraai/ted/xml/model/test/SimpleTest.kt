@@ -82,6 +82,7 @@ class SimpleTest {
 			println(translationSection)
 
 			println(formSection.contractNotices[0].contract.objectDescriptions[0].shortDescr)
+			println("CPV Main = ${formSection.contractNotices[0].contract.cpvMain.code.code}")
 		}
 	}
 
@@ -109,6 +110,7 @@ class SimpleTest {
 			println(formSection.contractNotices[0].contractingBody.address.officialname)
 
 			println(translationSection)
+			println("Additional CPVs = ${formSection.contractNotices[0].contract.objectDescriptions[0].additionalCPVs}")
 		}
 	}
 }
