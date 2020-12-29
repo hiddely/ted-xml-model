@@ -8,6 +8,9 @@ import org.simpleframework.xml.Root
 data class ContractingBody(
 
     @field:Element(name = "ADDRESS_CONTRACTING_BODY")
-    var address: ContactContractingBody = ContactContractingBody()
+    var address: ContactContractingBody = ContactContractingBody(),
+
+    @field:Element(name = "URL_DOCUMENT", required = false)
+    var url: String = ""
 
 )
